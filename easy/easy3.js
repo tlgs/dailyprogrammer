@@ -7,7 +7,6 @@ function encrypt(str, shift){
 
     if( !((str.charCodeAt(i) >= 65 && str.charCodeAt(i) <= 90) || (str.charCodeAt(i) >= 97 && str.charCodeAt(i) <= 122))){
       new_str = new_str + str.charAt(i);
-      console.log("sup");
       continue;
     }
 
