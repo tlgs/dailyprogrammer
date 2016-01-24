@@ -10,9 +10,11 @@ math.config({
 });
 
 var pi = math.bignumber(0),
+    iter = 90,  //number of iterations
     i;
 
-for(i = 0; i < 90; i++ ){
+//Newton's algorithm for pi
+for(i = 0; i < iter; i++ ){
   pi = math.add(pi,
        math.bignumber(
        math.divide(math.factorial(math.multiply(math.bignumber(2), math.bignumber(i))),
