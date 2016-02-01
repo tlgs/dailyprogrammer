@@ -29,13 +29,11 @@ function deconstruct(input){
       maxRowCount = 0,
       maxColCount = 0;
 
-  for(i=0; i < numRows; i++){
+  for(i=0; i < numRows; i++)
     rows[i] = [];
-  }
 
-  for(j=0; j < numCol; j++){
+  for(j=0; j < numCol; j++)
     col[j] = [];
-  }
 
   for(i=0; i < numRows; i++){
     for(j=0; j < numCol; j++){

@@ -5,8 +5,6 @@ This repository contains scripts used to solve programming challenges available 
 
 [Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is an almost complete list of the available challenges.
 
-So far every solution is in *Javascript*.
-
 
 ###### Stuff I had to learn in specific challenges:
 
