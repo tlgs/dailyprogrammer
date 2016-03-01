@@ -1,9 +1,8 @@
 /* 01/02/2016 */
 
 //Brute-force implementation
-
 function nightStash(s, c){
-  
+
   for(var i = 0; i < s; i++){
     if(c % s !== 1 || Math.floor( c/s ) == 0) return null;
     c -= (Math.floor( c/s ) + 1);

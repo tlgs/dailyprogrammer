@@ -24,11 +24,5 @@ for(i = 0; i < iter; i++ ){
 
 pi = math.multiply(pi, math.bignumber(6));
 
-
 console.log("Here is a calcualtion of pi up to 35 decimal digits:\n");
 console.log("My pi:\t\t" + math.format(pi, 36) + "\nActual pi:\t3.14159265358979323846264338327950288");
-
-if(math.format(pi, 36) == "3.14159265358979323846264338327950288")
-  console.log("Good job boys!");
-else
-  console.log("Tough luck, loser!");

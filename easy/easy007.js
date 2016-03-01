@@ -36,8 +36,3 @@ function morse2alphabet(input, x){  //x set to 0 for alphabet -> morse
 
   return output;
 }
-
-var input = ".... . .-.. .-.. --- / -.. .- .. .-.. -.-- / .--. .-. --- --. .-. .- -- -- . .-. / --. --- --- -.. / .-.. ..- -.-. -.- / --- -. / - .... . / -.-. .... .- .-.. .-.. . -. --. . ... / - --- -.. .- -.--";
-
-console.log(input);
-console.log(morse2alphabet(input, 1));

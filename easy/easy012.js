@@ -20,5 +20,3 @@ function strPerm(rest, soFar) {
         }
     }
 }
-
-strPerm("abc", "");
