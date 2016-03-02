@@ -1,7 +1,6 @@
 /* 26/01/2016 */
 
 //Output is not correct.
-
 function tableify(input){
   var i,
       j,

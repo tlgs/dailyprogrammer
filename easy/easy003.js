@@ -30,7 +30,6 @@ function encrypt(str, shift){
 }
 
 function main() {
-
   var str = prompt("Please enter your message to be encrypted:");
   var shift = parseFloat(prompt("Please enter how much you want it to be shifted (integer from -25 to 25):"));
 

@@ -1,7 +1,6 @@
 /* 26/01/2016 */
 
 //Only works with numbers as inputs. No zero padding in the output string.
-
 function getWeekDay(day, month, year){
   var weekDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
