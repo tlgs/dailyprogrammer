@@ -1,10 +1,10 @@
-##### /r/dailyprogrammer
+##### Reddit's /r/dailyprogrammer challenges
+![hey](https://d.thumbs.redditmedia.com/mASxBAsOsW90oWe-.png)
 ---
 
-This repository contains scripts used to solve programming challenges available at reddit's /r/dailyprogrammer.
+This repository contains scripts used to solve programming challenges available over at [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer).
 
-[Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is an almost complete list of the available challenges.
-
+[Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is a complete list of the available challenges.
 
 ###### Stuff I had to learn in specific challenges:
 
