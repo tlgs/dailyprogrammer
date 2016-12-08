@@ -48,3 +48,5 @@ Completed easy challenges:
 | 42     | Ninety-nine bottles of beer song                    | Javascript |
 | 251    | Create Nonogram description                         | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
+| 293    | Defusing the bomb                                   | Javascript |
+| 294    | Rack management 1                                   | Javascript |
