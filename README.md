@@ -50,3 +50,4 @@ Completed easy challenges:
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 293    | Defusing the bomb                                   | Javascript |
 | 294    | Rack management 1                                   | Javascript |
+| 295    | Letter by letter                                    | R          |
