@@ -46,6 +46,8 @@ Completed easy challenges:
 | 40     | Printing 1000 numbers without using loops           | Javascript |
 | 41     | ASCII decoration banner                             | Javascript |
 | 42     | Ninety-nine bottles of beer song                    | Javascript |
+| 44     | Determining the biggest sentence in a text          | Javascript |
+| 45     | Drawing a checkered board                           | Javascript |
 | 251    | Create Nonogram description                         | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 293    | Defusing the bomb                                   | Javascript |
