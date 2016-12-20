@@ -1,4 +1,5 @@
 /* 15/01/2016 */
+// please see easy047 where I am less of a fool.
 
 function encrypt(str, shift){
   var new_str = "";

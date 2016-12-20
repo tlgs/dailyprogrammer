@@ -48,8 +48,12 @@ Completed easy challenges:
 | 42     | Ninety-nine bottles of beer song                    | Javascript |
 | 44     | Determining the biggest sentence in a text          | Javascript |
 | 45     | Drawing a checkered board                           | Javascript |
+| 46     | Population count of a bitstring                     | Javascript |
+| 47     | Caesar cipher II                                    | Javascript |
+| 49     | Monty Hall simulation                               | Javascript |
 | 251    | Create Nonogram description                         | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
+| 291    | Goldilocks' Bear Necessities                        | Javascript |
 | 293    | Defusing the bomb                                   | Javascript |
 | 294    | Rack management 1                                   | Javascript |
 | 295    | Letter by letter                                    | R          |
