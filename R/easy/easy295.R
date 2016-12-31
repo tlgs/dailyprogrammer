@@ -1,3 +1,5 @@
+# 12/12/2016
+
 strSwitch <- function(a, b){
     print(a, quote=FALSE)
     a <- unlist(strsplit(a, split=""))

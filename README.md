@@ -42,7 +42,7 @@ Completed easy challenges:
 | 34     | Sum of the squares of the two larger numbers        | Javascript |
 | 35     | Right triangle counting                             | Javascript |
 | 36     | 1000 Lockers problem                                | Javascript |
-| 39     | FizzBuzz                                            | Javascript, R |
+| 39     | FizzBuzz                                            | Javascript, R, C |
 | 40     | Printing 1000 numbers without using loops           | Javascript |
 | 41     | ASCII decoration banner                             | Javascript |
 | 42     | Ninety-nine bottles of beer song                    | Javascript |
@@ -51,6 +51,7 @@ Completed easy challenges:
 | 46     | Population count of a bitstring                     | Javascript |
 | 47     | Caesar cipher II                                    | Javascript |
 | 49     | Monty Hall simulation                               | Javascript |
+| 52     | Order words by the avg of the values of its letters | R          |
 | 251    | Create Nonogram description                         | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 291    | Goldilocks' Bear Necessities                        | Javascript |

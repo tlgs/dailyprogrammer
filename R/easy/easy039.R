@@ -1,3 +1,5 @@
+# 12/12/2016
+
 fizzbuzz <- function(n){
     for(i in 1:n){
         a <- if(i%%3 == 0 && i%%5 == 0){
