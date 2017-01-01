@@ -8,11 +8,9 @@ int * mergeAndSort(int sizeA, int a[], int sizeB, int b[]){
 
     for(int i = 0; i < sizeA + sizeB; i++){
         if((a[indA] <= b[indB] && indA < sizeA) || indB == sizeB){
-            output[i] = a[indA];
-            indA ++;
+            output[i] = a[indA++];
         } else{
-            output[i] = b[indB];
-            indB ++;
+            output[i] = b[indB++];
         }
     }
 
