@@ -52,6 +52,7 @@ Completed easy challenges:
 | 47     | Caesar cipher II                                    | Javascript |
 | 49     | Monty Hall simulation                               | Javascript |
 | 52     | Order words by the avg of the values of its letters | R          |
+| 53     | Merge two sorted lists into one sorted list         | C          |
 | 251    | Create Nonogram description                         | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 291    | Goldilocks' Bear Necessities                        | Javascript |
