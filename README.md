@@ -54,6 +54,7 @@ Completed easy challenges:
 | 52     | Order words by the avg of the values of its letters | R          |
 | 53     | Merge two sorted lists into one sorted list         | C          |
 | 149    | Disemvoweler                                        | C          |
+| 208    | Culling Numbers                                     | Javascript |
 | 239    | A Game of Threes                                    | C          |
 | 251    | Create Nonogram description                         | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
