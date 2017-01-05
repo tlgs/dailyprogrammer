@@ -32,6 +32,7 @@ Completed easy challenges:
 | 21     | Next higher number that uses the same set of digits | Javascript |
 | 22     | List appending                                      | Javascript |
 | 23     | Splitting a list                                    | Javascript |
+| 24     | -                                                   | -          |
 | 25     | Winner of a vote                                    | Javascript |
 | 26     | Removal of consecutive duplicates                   | Javascript |
 | 27     | Century of a year                                   | Javascript |
