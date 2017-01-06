@@ -54,11 +54,13 @@ Completed easy challenges:
 | 49     | Monty Hall simulation                               | Javascript |
 | 52     | Order words by the avg of the values of its letters | R          |
 | 53     | Merge two sorted lists into one sorted list         | C          |
+| 122    | Sum Them Digits                                     | Javascript |
 | 149    | Disemvoweler                                        | C          |
 | 208    | Culling Numbers                                     | Javascript |
 | 239    | A Game of Threes                                    | C          |
 | 251    | Create Nonogram description                         | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
+| 254    | Atbash Cipher                                       | Javascript |
 | 291    | Goldilocks' Bear Necessities                        | Javascript |
 | 293    | Defusing the bomb                                   | Javascript |
 | 294    | Rack management 1                                   | Javascript |
