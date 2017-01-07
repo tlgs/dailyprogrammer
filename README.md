@@ -54,6 +54,7 @@ Completed easy challenges:
 | 49     | Monty Hall simulation                               | Javascript |
 | 52     | Order words by the avg of the values of its letters | R          |
 | 53     | Merge two sorted lists into one sorted list         | C          |
+| 115    | Guess-that-number game!                             | C          |
 | 122    | Sum Them Digits                                     | Javascript |
 | 149    | Disemvoweler                                        | C          |
 | 208    | Culling Numbers                                     | Javascript |
