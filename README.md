@@ -62,6 +62,7 @@ Completed easy challenges:
 | 251    | Create Nonogram description                         | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 254    | Atbash Cipher                                       | Javascript |
+| 255    | Playing with light switches                         | Javascript, R |
 | 291    | Goldilocks' Bear Necessities                        | Javascript |
 | 293    | Defusing the bomb                                   | Javascript |
 | 294    | Rack management 1                                   | Javascript |
