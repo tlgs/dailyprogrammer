@@ -43,7 +43,7 @@ Completed easy challenges:
 | 34     | Sum of the squares of the two larger numbers        | Javascript |
 | 35     | Right triangle counting                             | Javascript |
 | 36     | 1000 Lockers problem                                | Javascript |
-| 39     | FizzBuzz                                            | Javascript, R, C |
+| 39     | FizzBuzz                                            | Javascript, R, C, Rust |
 | 40     | Printing 1000 numbers without using loops           | Javascript |
 | 41     | ASCII decoration banner                             | Javascript |
 | 42     | Ninety-nine bottles of beer song                    | Javascript |
@@ -57,6 +57,7 @@ Completed easy challenges:
 | 115    | Guess-that-number game!                             | C          |
 | 122    | Sum Them Digits                                     | Javascript |
 | 149    | Disemvoweler                                        | C          |
+| 175    | Bogo!                                               | C          |
 | 208    | Culling Numbers                                     | Javascript |
 | 239    | A Game of Threes                                    | C          |
 | 251    | Create Nonogram description                         | Javascript |
