@@ -11,7 +11,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
-| 1      | Introduce yourself                                  | Javascript |
+| 1      | Introduce yourself                                  | Javascript, Rust |
 | 2      | F=m*a Calculator                                    | Javascript |
 | 3      | Caesar cipher                                       | Javascript |
 | 4      | Random password generator                           | Javascript |
