@@ -59,7 +59,7 @@ Completed easy challenges:
 | 149    | Disemvoweler                                        | C          |
 | 175    | Bogo!                                               | C          |
 | 208    | Culling Numbers                                     | Javascript |
-| 239    | A Game of Threes                                    | C          |
+| 239    | A Game of Threes                                    | C, Rust    |
 | 251    | Create Nonogram description                         | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 254    | Atbash Cipher                                       | Javascript |
