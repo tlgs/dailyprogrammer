@@ -61,10 +61,10 @@ Completed easy challenges:
 | 175    | Bogo!                                               | C          |
 | 208    | Culling Numbers                                     | Javascript |
 | 239    | A Game of Threes                                    | C, Rust    |
-| 251    | Create Nonogram description                         | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 254    | Atbash Cipher                                       | Javascript |
 | 255    | Playing with light switches                         | Javascript, R |
+| 275    | Splurthian Chemistry 101                            | C          |
 | 291    | Goldilocks' Bear Necessities                        | Javascript |
 | 293    | Defusing the bomb                                   | Javascript |
 | 294    | Rack management 1                                   | Javascript |
