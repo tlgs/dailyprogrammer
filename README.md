@@ -51,9 +51,11 @@ Completed easy challenges:
 | 45     | Drawing a checkered board                           | Javascript |
 | 46     | Population count of a bitstring                     | Javascript |
 | 47     | Caesar cipher II                                    | Javascript |
+| 48     | All even integers precede odd integers in array     | C          |
 | 49     | Monty Hall simulation                               | Javascript |
 | 52     | Order words by the avg of the values of its letters | R          |
 | 53     | Merge two sorted lists into one sorted list         | C          |
+| 54     | Matrix cipher                                       | C          |
 | 58     | Integer to String in any base (2-36)                | Rust       |
 | 115    | Guess-that-number game!                             | C          |
 | 122    | Sum Them Digits                                     | Javascript |
@@ -64,6 +66,7 @@ Completed easy challenges:
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 254    | Atbash Cipher                                       | Javascript |
 | 255    | Playing with light switches                         | Javascript, R |
+| 271    | Critical Hit                                        | C          |
 | 275    | Splurthian Chemistry 101                            | C          |
 | 291    | Goldilocks' Bear Necessities                        | Javascript |
 | 293    | Defusing the bomb                                   | Javascript |
