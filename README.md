@@ -57,6 +57,7 @@ Completed easy challenges:
 | 53     | Merge two sorted lists into one sorted list         | C          |
 | 54     | Matrix cipher                                       | C          |
 | 58     | Integer to String in any base (2-36)                | Rust       |
+| 79     | Counting in steps                                   | C          |
 | 115    | Guess-that-number game!                             | C          |
 | 122    | Sum Them Digits                                     | Javascript |
 | 149    | Disemvoweler                                        | C          |

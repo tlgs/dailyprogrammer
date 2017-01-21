@@ -6,9 +6,9 @@ function strPerm(rest, soFar) {
         remaining,
         i;
 
-    if (rest == "")
+    if (rest == ""){
         console.log(soFar);
-
+    }
     else {
         for (i = 0; i < rest.length; i++) {
             remaining = rest.substr(0,i) + rest.substr(i+1,rest.length-1);
