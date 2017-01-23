@@ -67,6 +67,7 @@ Completed easy challenges:
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 254    | Atbash Cipher                                       | Javascript |
 | 255    | Playing with light switches                         | Javascript, R |
+| 263    | Calculating Shannon Entropy of a String             | C          |
 | 271    | Critical Hit                                        | C          |
 | 275    | Splurthian Chemistry 101                            | C          |
 | 291    | Goldilocks' Bear Necessities                        | Javascript |
