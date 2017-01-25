@@ -1,3 +1,7 @@
+/*
+** This piece of code was used to rename
+** all solution files from easyXXX -> eXXX
+*/
 #include <stdio.h>
 #include <unistd.h>
 
