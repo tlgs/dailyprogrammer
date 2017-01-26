@@ -23,6 +23,7 @@ Completed easy challenges:
 | 254    | Atbash Cipher                                       | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 239    | A Game of Threes                                    | C, Rust    |
+| 228    | Letters in Alphabetical Order                       | C          |
 | 208    | Culling Numbers                                     | Javascript |
 | 175    | Bogo!                                               | C          |
 | 149    | Disemvoweler                                        | C          |
