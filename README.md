@@ -25,6 +25,7 @@ Completed easy challenges:
 | 239    | A Game of Threes                                    | C, Rust    |
 | 228    | Letters in Alphabetical Order                       | C          |
 | 208    | Culling Numbers                                     | Javascript |
+| 197    | ISBN Validator                                      | Javascript |
 | 175    | Bogo!                                               | C          |
 | 149    | Disemvoweler                                        | C          |
 | 122    | Sum Them Digits                                     | Javascript |
