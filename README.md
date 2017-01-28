@@ -16,6 +16,7 @@ Completed easy challenges:
 | 294    | Rack management 1                                   | Javascript |
 | 293    | Defusing the bomb                                   | Javascript |
 | 291    | Goldilocks' Bear Necessities                        | Javascript |
+| 290    | Kaprekar Numbers                                    | Javascript |
 | 275    | Splurthian Chemistry 101                            | C          |
 | 271    | Critical Hit                                        | C          |
 | 263    | Calculating Shannon Entropy of a String             | C          |
