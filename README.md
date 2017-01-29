@@ -28,6 +28,7 @@ Completed easy challenges:
 | 208    | Culling Numbers                                     | Javascript |
 | 197    | ISBN Validator                                      | Javascript |
 | 175    | Bogo!                                               | C          |
+| 156    | Simple Decoder                                      | C          |
 | 149    | Disemvoweler                                        | C          |
 | 122    | Sum Them Digits                                     | Javascript |
 | 115    | Guess-that-number game!                             | C          |
