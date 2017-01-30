@@ -12,6 +12,7 @@ Completed easy challenges:
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
 | 300    | Let's make some noise                               | C          |
+| 287    | Kaprekar's Routine                                  | C          |
 | 295    | Letter by letter                                    | R          |
 | 294    | Rack management 1                                   | Javascript |
 | 293    | Defusing the bomb                                   | Javascript |
