@@ -7,17 +7,19 @@ This repository contains scripts used to solve the programming challenges availa
 
 ---
 
-Completed easy challenges:
+<details>
+    <summary>Completed easy challenges:</summary>
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
 | 300    | Let's make some noise                               | C          |
-| 287    | Kaprekar's Routine                                  | C          |
 | 295    | Letter by letter                                    | R          |
 | 294    | Rack management 1                                   | Javascript |
 | 293    | Defusing the bomb                                   | Javascript |
 | 291    | Goldilocks' Bear Necessities                        | Javascript |
 | 290    | Kaprekar Numbers                                    | Javascript |
+| 287    | Kaprekar's Routine                                  | C          |
+| 286    | Reverse Factorial                                   | Python     |
 | 275    | Splurthian Chemistry 101                            | C          |
 | 271    | Critical Hit                                        | C          |
 | 263    | Calculating Shannon Entropy of a String             | C          |
@@ -47,7 +49,7 @@ Completed easy challenges:
 | 42     | Ninety-nine bottles of beer song                    | Javascript |
 | 41     | ASCII decoration banner                             | Javascript |
 | 40     | Printing 1000 numbers without using loops           | Javascript |
-| 39     | FizzBuzz                                            | Javascript, R, C, Rust |
+| 39     | FizzBuzz                                            | Javascript, R, C, Rust, Python |
 | 36     | 1000 Lockers problem                                | Javascript |
 | 35     | Right triangle counting                             | Javascript |
 | 34     | Sum of the squares of the two larger numbers        | Javascript |
@@ -80,3 +82,5 @@ Completed easy challenges:
 | 3      | Caesar cipher                                       | Javascript |
 | 2      | F=m*a Calculator                                    | Javascript |
 | 1      | Introduce yourself                                  | Javascript, Rust |
+
+</details>
