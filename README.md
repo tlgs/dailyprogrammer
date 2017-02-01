@@ -7,6 +7,14 @@ This repository contains scripts used to solve the programming challenges availa
 
 ---
 
+Completed intermediate challenges:
+
+| Number | Name/Description                                    | Language   |
+|--------|-----------------------------------------------------|------------|
+| 245    | Ggggggg gggg Ggggg-ggggg!                           | Python     |
+
+
+
 <details>
     <summary>Completed easy challenges:</summary>
 
@@ -27,6 +35,7 @@ This repository contains scripts used to solve the programming challenges availa
 | 254    | Atbash Cipher                                       | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
 | 239    | A Game of Threes                                    | C, Rust    |
+| 238    | Consonants and Vowels                               | Python     |
 | 228    | Letters in Alphabetical Order                       | C          |
 | 208    | Culling Numbers                                     | Javascript |
 | 197    | ISBN Validator                                      | Javascript |
