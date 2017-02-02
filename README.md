@@ -15,11 +15,11 @@ Completed intermediate challenges:
 
 
 
-<details>
-    <summary>Completed easy challenges:</summary>
+Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 301    | Looking for patterns                                | Python     |
 | 300    | Let's make some noise                               | C          |
 | 295    | Letter by letter                                    | R          |
 | 294    | Rack management 1                                   | Javascript |
@@ -91,5 +91,3 @@ Completed intermediate challenges:
 | 3      | Caesar cipher                                       | Javascript |
 | 2      | F=m*a Calculator                                    | Javascript |
 | 1      | Introduce yourself                                  | Javascript, Rust |
-
-</details>
