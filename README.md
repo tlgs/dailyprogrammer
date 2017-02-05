@@ -2,8 +2,9 @@
 ---
 
 This repository contains scripts used to solve the programming challenges available over at [Reddit's /r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer).
+Have in mind that they are created with their intended usage in mind and most do little or no input validation.
 
-[Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is a complete list of the available challenges.
+It is hard to tell what most of these do just by their title. [Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is a complete list of the available challenges.
 
 ---
 
@@ -11,6 +12,7 @@ Completed intermediate challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 301    | Looking for patterns                                | Python     |
 | 245    | Ggggggg gggg Ggggg-ggggg!                           | Python     |
 
 
@@ -28,6 +30,7 @@ Completed easy challenges:
 | 290    | Kaprekar Numbers                                    | Javascript |
 | 287    | Kaprekar's Routine                                  | C          |
 | 286    | Reverse Factorial                                   | Python     |
+| 276    | Recktangles                                         | Python     |
 | 275    | Splurthian Chemistry 101                            | C          |
 | 271    | Critical Hit                                        | C          |
 | 263    | Calculating Shannon Entropy of a String             | C          |
