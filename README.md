@@ -2,7 +2,8 @@
 ---
 
 This repository contains scripts used to solve the programming challenges available over at [Reddit's /r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer).
-Have in mind that they are created with their intended usage in mind and most do little or no input validation.
+
+Have in mind that they were created with their intended usage in mind and most do little or no input validation.
 
 It is hard to tell what most of these do just by their title. [Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is a complete list of the available challenges.
 
@@ -14,6 +15,7 @@ Completed intermediate challenges:
 |--------|-----------------------------------------------------|------------|
 | 301    | Looking for patterns                                | Python     |
 | 245    | Ggggggg gggg Ggggg-ggggg!                           | Python     |
+| 23     | McNugget numbers                                    | Python     |
 
 
 
@@ -45,6 +47,7 @@ Completed easy challenges:
 | 175    | Bogo!                                               | C          |
 | 156    | Simple Decoder                                      | C          |
 | 149    | Disemvoweler                                        | C          |
+| 147    | Sport Points                                        | Python     |
 | 122    | Sum Them Digits                                     | Javascript |
 | 115    | Guess-that-number game!                             | C          |
 | 79     | Counting in steps                                   | C          |
