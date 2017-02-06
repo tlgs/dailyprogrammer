@@ -3,9 +3,9 @@
 
 This repository contains scripts used to solve the programming challenges available over at [Reddit's /r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer).
 
-Have in mind that they were created with their intended usage in mind and most do little or no input validation.
+Have in mind that they were created with their intended usage in mind and most do little or no input validation. It is hard to tell what most of these do just by their title.
 
-It is hard to tell what most of these do just by their title. [Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is a complete list of the available challenges.
+[Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is a complete list of the available challenges.
 
 ---
 
@@ -23,6 +23,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 302    | Spelling with Chemistry                             | Python     |
 | 301    | Looking for patterns                                | Python     |
 | 300    | Let's make some noise                               | C          |
 | 295    | Letter by letter                                    | R          |
