@@ -52,6 +52,7 @@ Completed easy challenges:
 | 122    | Sum Them Digits                                     | Javascript |
 | 115    | Guess-that-number game!                             | C          |
 | 79     | Counting in steps                                   | C          |
+| 60     | Polite numbers: possible sequences                  | Python     |
 | 58     | Integer to String in any base (2-36)                | Rust       |
 | 54     | Matrix cipher                                       | C          |
 | 53     | Merge two sorted lists into one sorted list         | C          |
