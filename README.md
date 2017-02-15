@@ -15,7 +15,7 @@ Completed intermediate challenges:
 |--------|-----------------------------------------------------|------------|
 | 301    | Looking for patterns                                | Python     |
 | 245    | Ggggggg gggg Ggggg-ggggg!                           | Python     |
-| 23     | McNugget numbers                                    | Python     |
+| 23     | McNugget numbers                                    | Python, C  |
 
 
 
@@ -35,6 +35,7 @@ Completed easy challenges:
 | 286    | Reverse Factorial                                   | Python     |
 | 276    | Recktangles                                         | Python     |
 | 275    | Splurthian Chemistry 101                            | C          |
+| 272    | What's in the bag?                                  | Python     |
 | 271    | Critical Hit                                        | C          |
 | 263    | Calculating Shannon Entropy of a String             | C          |
 | 255    | Playing with light switches                         | Javascript, R |
