@@ -37,6 +37,7 @@ Completed easy challenges:
 | 275    | Splurthian Chemistry 101                            | C          |
 | 272    | What's in the bag?                                  | Python     |
 | 271    | Critical Hit                                        | C          |
+| 270    | Transpose the input text                            | Python     |
 | 263    | Calculating Shannon Entropy of a String             | C          |
 | 255    | Playing with light switches                         | Javascript, R |
 | 254    | Atbash Cipher                                       | Javascript |
