@@ -1,7 +1,7 @@
 /* 28/01/2016 */
 #include <stdio.h>
 #define LOL putchar(sizeof(char) << ('c' / '!'));
-#define HAHA putchar( 0x40 >> !(((0))));
+#define HAHA putchar(0x40 >> !(((0))));
 
 char *text = "Etvmp$Jsspw%%%%\n"
 "[e}$xs$ks%$]sy$lezi$wspzih$xli$lmhhir$qiwweki2$Rs{$mx$mw$}syv$xyvr$xs$nsmr\n"

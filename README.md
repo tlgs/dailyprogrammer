@@ -49,6 +49,7 @@ Completed easy challenges:
 | 208    | Culling Numbers                                     | Javascript |
 | 197    | ISBN Validator                                      | Javascript |
 | 175    | Bogo!                                               | C          |
+| 158    | The Torn Number                                     | C          |
 | 156    | Simple Decoder                                      | C          |
 | 149    | Disemvoweler                                        | C          |
 | 147    | Sport Points                                        | Python     |
