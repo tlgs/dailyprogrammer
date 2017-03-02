@@ -14,6 +14,7 @@ Completed intermediate challenges:
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
 | 301    | Looking for patterns                                | Python     |
+| 249    | Hello World Genetic or Evolutionary Algorithm       | C          |
 | 245    | Ggggggg gggg Ggggg-ggggg!                           | Python     |
 | 46     | Setting random digits to blanks game                | Python     |
 | 23     | McNugget numbers                                    | Python, C  |

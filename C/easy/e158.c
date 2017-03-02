@@ -1,5 +1,4 @@
 /* 27/02/2017 */
-
 #include <stdio.h>
 
 char checkDigits(int num){
