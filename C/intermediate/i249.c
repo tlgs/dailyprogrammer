@@ -1,5 +1,5 @@
 /* 01/03/2017 */
-/* Currently takes about ~1500 generations to get "Hello, World!" using this parameters.
+/* Currently takes about 500-1500 generations to get "Hello, World!" using this parameters.
 ** Uses one-point crossover.
 ** Fitness-proportional selection for parent selection.
 ** Fitness-proportional selection to decide next generation (parents + children).
@@ -11,13 +11,18 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
+#include <math.h>
 
 #define POP_SIZE 200
-#define CHILDREN_NUM 300
+#define CHILDREN_NUM 200
 #define PARENT_NUM 100
 
-#define LAMBDA 0.5
-#define P_MUTATE 0.01
+#define CROSSOVER_LAMBDA 0.5
+
+#define P_MUTATE_START 0.03
+//#define P_MUTATE_END 0.01
+//#define P_MUTATE_CHANGE 0.002
+//#define MUTATE_CHANGE_EVERY 20
 
 typedef struct {
     char *solution;
@@ -35,11 +40,12 @@ void printHeader(int gen, individual input);
 
 int fitnessFunction(char *test, char *target);
 void evaluatePop(individual *input, char *target, int size);
+void sortPop(individual *input, int size);
 individual getBest(individual *input);
 
 void selectParents(individual *input, individual *parents);
 void createChildren(individual *parents, individual *children);
-void mutatePop(individual *input, int size);
+void mutatePop(individual *input, int size, int iterarion);
 void selectNextPop(individual *parents, individual *children, individual *new);
 
 void printPop(individual *input, int size);
@@ -52,12 +58,13 @@ int main(int argc, char *argv[]){
 
     srand(time(0));
     gen generation = initPop(target);
-    printHeader(generation.no, getBest(generation.population));
+    //printHeader(generation.no, getBest(generation.population));
 
     while(strcmp(getBest(generation.population).solution, target) != 0){
         generation = nextGen(generation, target);
-        printHeader(generation.no, getBest(generation.population));
+    //    printHeader(generation.no, getBest(generation.population));
     }
+    printf("It took me %d generations to converge", generation.no);
 }
 
 gen initPop(char *target){
@@ -81,7 +88,7 @@ gen nextGen(gen input, char *target){
 
     individual *children = malloc(sizeof(individual) * CHILDREN_NUM);
     createChildren(parents, children);
-    mutatePop(children, CHILDREN_NUM);
+    mutatePop(children, CHILDREN_NUM, input.no);
     evaluatePop(children, target, CHILDREN_NUM);
 
     individual *nextPop = malloc(sizeof(individual) * (CHILDREN_NUM+PARENT_NUM));
@@ -121,6 +128,24 @@ void evaluatePop(individual *input, char *target, int size){
     }
 }
 
+/* implements insertion sort */
+void sortPop(individual *input, int size){
+    int targetSize = strlen(input[0].solution);
+    for(int i = 1; i < size; i++){
+        char *tempSolution = malloc(sizeof(char) * (targetSize + 1));
+        strcpy(tempSolution, input[i].solution);
+        int tempFitness = input[i].fitness;
+        int j = i - 1;
+        while(j >= 0 && input[j].fitness > tempFitness){
+            input[j+1].fitness = input[j].fitness;
+            strcpy(input[j+1].solution, input[j].solution);
+            j--;
+        }
+        input[j+1].fitness = tempFitness;
+        strcpy(input[j+1].solution, tempSolution);
+    }
+}
+
 individual getBest(individual *input){
     int index = 0;
     int best = input[0].fitness;
@@ -141,9 +166,9 @@ void selectParents(individual *input, individual *parents){
         sum += input[i].fitness;
     }
 
-    int targetSize = strlen(parents[0].solution);
+    int targetSize = strlen(input[0].solution);
     for(int i = 0; i < PARENT_NUM; i++){
-        int dice = rand()%probabilities[POP_SIZE-1];
+        int dice = rand() % probabilities[POP_SIZE - 1];
         for(int j = 0; j < POP_SIZE; j++){
             if(dice < probabilities[j]){
                 parents[i].solution = malloc(sizeof(char) * (targetSize + 1));
@@ -166,10 +191,10 @@ void createChildren(individual *parents, individual *children){
         int pOne = rand() % PARENT_NUM;
         int pTwo = rand() % PARENT_NUM;
         children[i].solution = malloc(sizeof(char) * (size + 1));
-        children[i + 1].solution = malloc(sizeof(char) * (size + 1));
+        children[i+1].solution = malloc(sizeof(char) * (size + 1));
         for(int j = 0; j < size; j++){
-            children[i + (j >= LAMBDA*size)].solution[j] = parents[pOne].solution[j];
-            children[i + (j < LAMBDA*size)].solution[j] = parents[pTwo].solution[j];
+            children[i+(j >= CROSSOVER_LAMBDA*size)].solution[j] = parents[pOne].solution[j];
+            children[i+(j < CROSSOVER_LAMBDA*size)].solution[j] = parents[pTwo].solution[j];
 
         }
         children[i].solution[size] = '\0';
@@ -180,11 +205,17 @@ void createChildren(individual *parents, individual *children){
     }
 }
 
-void mutatePop(individual *input, int size){
+void mutatePop(individual *input, int size, int iteration){
+    //float p = P_MUTATE_START - (iteration / MUTATE_CHANGE_EVERY) * P_MUTATE_CHANGE;
+    //p = (p > P_MUTATE_END) ? p : P_MUTATE_END;
+    float p = P_MUTATE_START;
+
+    int targetSize = strlen(input[0].solution);
     for(int i = 0; i < size; i++){
-        for(int j = 0; j < strlen(input[0].solution); j++){
-            if(rand()%100 < P_MUTATE * 100)
-                input[i].solution[j] = 32 + rand() % 95;
+        for(int chr = 0; chr < targetSize; chr++){
+            if(rand()%100 < (int) (p * 100)){
+                input[i].solution[chr] = 32 + rand() % 95;
+            }
         }
     }
 }
@@ -195,7 +226,7 @@ void selectNextPop(individual *parents, individual *children, individual *new){
     for(int i = 0; i < PARENT_NUM + CHILDREN_NUM; i++){
         probabilities[i] = (i < PARENT_NUM) ? parents[i].fitness + sum :
                                               children[i - PARENT_NUM].fitness + sum;
-        sum += (i < PARENT_NUM) ? parents[i].fitness : children[i - PARENT_NUM].fitness;
+        sum += (i < PARENT_NUM) ? parents[i].fitness : children[i-PARENT_NUM].fitness;
     }
 
     int targetSize = strlen(parents[0].solution);
@@ -205,8 +236,10 @@ void selectNextPop(individual *parents, individual *children, individual *new){
             if(dice < probabilities[j]){
                 new[i].solution = malloc(sizeof(char) * (targetSize + 1));
                 strcpy(new[i].solution, (j < PARENT_NUM) ? parents[j].solution :
-                                                           children[j - PARENT_NUM].solution);
-                new[i].fitness = (j < PARENT_NUM) ? parents[j].fitness : children[j - PARENT_NUM].fitness;
+                                                           children[j-PARENT_NUM].solution);
+
+                new[i].fitness = (j < PARENT_NUM) ? parents[j].fitness :
+                                                    children[j-PARENT_NUM].fitness;
                 break;
             }
         }
