@@ -25,6 +25,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 305    | Permutation base                                    | Python     |
 | 302    | Spelling with Chemistry                             | Python     |
 | 301    | Looking for patterns                                | Python     |
 | 300    | Let's make some noise                               | C          |
