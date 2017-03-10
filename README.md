@@ -9,7 +9,7 @@ Have in mind that they were created with their intended usage in mind and most d
 
 ---
 
-Completed intermediate challenges:
+Completed hard challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|

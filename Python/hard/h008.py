@@ -6,6 +6,7 @@ def pascalNumber(x, y):
     print('Error') if y > x+1 else print('Output: {}'.format(comb(x-1, y-1, exact=True)))
 
 def printPascalTriangle(n=15):
+    f = lambda x: ' '.join([str(comb(x, index, exact=True)) for index in range(0, x+1)])
+    maxlen = len(f(n-1))
     for line in range(0, n):
-        t = ' '.join([str(comb(line, index, exact=True)) for index in range(0, line+1)])
-        print('{str:^{width}}'.format(str=t, width=(n-1) * 2 + 1))
+        print('{str:^{width}}'.format(str=f(line), width=maxlen))
