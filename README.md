@@ -13,6 +13,14 @@ Completed intermediate challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 8      | Pascal Triangle Coordinates                         | Python     |
+
+
+
+Completed intermediate challenges:
+
+| Number | Name/Description                                    | Language   |
+|--------|-----------------------------------------------------|------------|
 | 301    | Looking for patterns                                | Python     |
 | 249    | Hello World Genetic or Evolutionary Algorithm       | C          |
 | 245    | Ggggggg gggg Ggggg-ggggg!                           | Python     |
