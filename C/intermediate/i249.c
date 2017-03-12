@@ -6,6 +6,7 @@
 **
 ** Does not converge properly:
 ** [Can make the mutation probability decrease with time]
+** BUG: Apparently crashes for targets with 8 chars.
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -58,13 +59,13 @@ int main(int argc, char *argv[]){
 
     srand(time(0));
     gen generation = initPop(target);
-    //printHeader(generation.no, getBest(generation.population));
+    printHeader(generation.no, getBest(generation.population));
 
     while(strcmp(getBest(generation.population).solution, target) != 0){
         generation = nextGen(generation, target);
-    //    printHeader(generation.no, getBest(generation.population));
+        printHeader(generation.no, getBest(generation.population));
     }
-    printf("It took me %d generations to converge", generation.no);
+    //printf("It took me %d generations to converge", generation.no);
 }
 
 gen initPop(char *target){

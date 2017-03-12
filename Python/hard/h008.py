@@ -7,6 +7,5 @@ def pascalNumber(x, y):
 
 def printPascalTriangle(n=15):
     f = lambda x: ' '.join([str(comb(x, index, exact=True)) for index in range(0, x+1)])
-    maxlen = len(f(n-1))
     for line in range(0, n):
-        print('{str:^{width}}'.format(str=f(line), width=maxlen))
+        print('{str:^{width}}'.format(str=f(line), width=len(f(n-1))))
