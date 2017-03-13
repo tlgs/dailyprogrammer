@@ -34,6 +34,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 306    | Pandigital Roman Numbers                            | Python     |
 | 305    | Permutation base                                    | Python     |
 | 302    | Spelling with Chemistry                             | Python     |
 | 301    | Looking for patterns                                | Python     |
