@@ -21,6 +21,7 @@ Completed intermediate challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 306    | Gray code                                           | Python     |
 | 301    | Looking for patterns                                | Python     |
 | 269    | Mirror Encryption                                   | Python     |
 | 249    | Hello World Genetic or Evolutionary Algorithm       | C          |

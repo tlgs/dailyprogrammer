@@ -14,8 +14,8 @@
 #include <time.h>
 #include <math.h>
 
-#define POP_SIZE 200
-#define CHILDREN_NUM 200
+#define POP_SIZE 100
+#define CHILDREN_NUM 100
 #define PARENT_NUM 100
 
 #define CROSSOVER_LAMBDA 0.5
@@ -65,6 +65,7 @@ int main(int argc, char *argv[]){
         generation = nextGen(generation, target);
         printHeader(generation.no, getBest(generation.population));
     }
+    printPop(generation.population, POP_SIZE);
     //printf("It took me %d generations to converge", generation.no);
 }
 
