@@ -56,6 +56,7 @@ Completed easy challenges:
 | 255    | Playing with light switches                         | Javascript, R |
 | 254    | Atbash Cipher                                       | Javascript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | Javascript |
+| 242    | Funny plants                                        | C          |
 | 239    | A Game of Threes                                    | C, Rust    |
 | 238    | Consonants and Vowels                               | Python     |
 | 228    | Letters in Alphabetical Order                       | C          |
