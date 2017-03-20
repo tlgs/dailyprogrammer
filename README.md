@@ -35,6 +35,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 307    | Base 255 part 1                                     | JavaScript |
 | 306    | Pandigital Roman Numbers                            | Python     |
 | 305    | Permutation base                                    | Python     |
 | 302    | Spelling with Chemistry                             | Python     |
