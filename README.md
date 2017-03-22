@@ -54,6 +54,7 @@ Completed easy challenges:
 | 271    | Critical Hit                                        | C          |
 | 270    | Transpose the input text                            | Python     |
 | 263    | Calculating Shannon Entropy of a String             | C          |
+| 259    | Clarence the Slow Typist                            | Python     |
 | 255    | Playing with light switches                         | JavaScript, R |
 | 254    | Atbash Cipher                                       | JavaScript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | JavaScript |
