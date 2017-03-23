@@ -21,6 +21,7 @@ Completed intermediate challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 307    | Scrabble problem                                    | Python     |
 | 306    | Gray code                                           | Python     |
 | 301    | Looking for patterns                                | Python     |
 | 269    | Mirror Encryption                                   | Python     |
