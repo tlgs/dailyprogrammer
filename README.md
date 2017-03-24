@@ -63,6 +63,7 @@ Completed easy challenges:
 | 239    | A Game of Threes                                    | C, Rust    |
 | 238    | Consonants and Vowels                               | Python     |
 | 228    | Letters in Alphabetical Order                       | C          |
+| 223    | Garland words                                       | Python     |
 | 208    | Culling Numbers                                     | JavaScript |
 | 207    | Bioinformatics 1: DNA Replication                   | C          |
 | 197    | ISBN Validator                                      | JavaScript |
