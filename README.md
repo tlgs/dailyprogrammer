@@ -36,7 +36,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
-| 308    | Let it burn                                         | Processing.py |
+| 308    | Let it burn                                         | Python     |
 | 307    | Base 255 part 1                                     | JavaScript |
 | 306    | Pandigital Roman Numbers                            | Python     |
 | 305    | Permutation base                                    | Python     |
