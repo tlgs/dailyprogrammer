@@ -27,6 +27,7 @@ Completed intermediate challenges:
 | 269    | Mirror Encryption                                   | Python     |
 | 249    | Hello World Genetic or Evolutionary Algorithm       | C          |
 | 245    | Ggggggg gggg Ggggg-ggggg!                           | Python     |
+| 235     | Scoring a Bowling Game                             | Python     |
 | 46     | Setting random digits to blanks game                | Python     |
 | 23     | McNugget numbers                                    | Python, C  |
 
