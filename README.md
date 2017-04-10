@@ -39,6 +39,8 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 310    | Kids Lotto                                          | Python     |
+| 309    | -                                                   | -          |
 | 308    | Let it burn                                         | Python     |
 | 307    | Base 255 part 1                                     | JavaScript |
 | 306    | Pandigital Roman Numbers                            | Python     |
