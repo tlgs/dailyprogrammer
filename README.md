@@ -66,6 +66,7 @@ Completed easy challenges:
 | 242    | Funny plants                                        | C          |
 | 239    | A Game of Threes                                    | C, Rust    |
 | 238    | Consonants and Vowels                               | Python     |
+| 232    | Palindromes                                         | Python     |
 | 228    | Letters in Alphabetical Order                       | C          |
 | 223    | Garland words                                       | Python     |
 | 208    | Culling Numbers                                     | JavaScript |
