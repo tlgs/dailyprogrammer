@@ -11,3 +11,4 @@ def kids_lotto(kids, num):
         final[attempt] = k
 
     for lotto_list, kid in final.items():
+        print("{} > {}".format(kid, ';'.join(lotto_list)))

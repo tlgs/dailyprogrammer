@@ -66,6 +66,7 @@ Completed easy challenges:
 | 254    | Atbash Cipher                                       | JavaScript |
 | 252    | Sailors and monkeys and coconuts, oh my!            | JavaScript |
 | 242    | Funny plants                                        | C          |
+| 240    | Typoglycemia                                        | Python     |
 | 239    | A Game of Threes                                    | C, Rust    |
 | 238    | Consonants and Vowels                               | Python     |
 | 232    | Palindromes                                         | Python     |
