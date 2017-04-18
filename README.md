@@ -23,7 +23,7 @@ Completed intermediate challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
-| 307    | Simplifying square roots                            | Python     |
+| 310    | Simplifying square roots                            | Python     |
 | 307    | Scrabble problem                                    | Python     |
 | 306    | Gray code                                           | Python     |
 | 301    | Looking for patterns                                | Python     |
@@ -40,6 +40,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 310    | Jolly Jumper                                        | R          |
 | 310    | Kids Lotto                                          | Python     |
 | 309    | -                                                   | -          |
 | 308    | Let it burn                                         | Python     |
