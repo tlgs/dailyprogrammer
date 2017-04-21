@@ -82,6 +82,7 @@ Completed easy challenges:
 | 156    | Simple Decoder                                      | C          |
 | 149    | Disemvoweler                                        | C          |
 | 147    | Sport Points                                        | Python     |
+| 139    | Pangrams                                            | R          |
 | 122    | Sum Them Digits                                     | JavaScript |
 | 115    | Guess-that-number game!                             | C          |
 | 79     | Counting in steps                                   | C          |
