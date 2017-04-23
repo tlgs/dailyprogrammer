@@ -40,7 +40,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
-| 310    | Jolly Jumper                                        | R          |
+| 311    | Jolly Jumper                                        | R          |
 | 310    | Kids Lotto                                          | Python     |
 | 309    | -                                                   | -          |
 | 308    | Let it burn                                         | Python     |
@@ -71,6 +71,7 @@ Completed easy challenges:
 | 240    | Typoglycemia                                        | Python     |
 | 239    | A Game of Threes                                    | C, Rust    |
 | 238    | Consonants and Vowels                               | Python     |
+| 237    | Broken Keyboard                                     | Python     |
 | 232    | Palindromes                                         | Python     |
 | 228    | Letters in Alphabetical Order                       | C          |
 | 223    | Garland words                                       | Python     |
