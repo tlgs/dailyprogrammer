@@ -40,6 +40,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 311    | L33tspeak Translator                                | Python     |
 | 311    | Jolly Jumper                                        | R          |
 | 310    | Kids Lotto                                          | Python     |
 | 309    | -                                                   | -          |
