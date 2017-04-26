@@ -23,6 +23,7 @@ Completed intermediate challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 312    | Next largest number                                 | R          |
 | 310    | Simplifying square roots                            | Python     |
 | 307    | Scrabble problem                                    | Python     |
 | 306    | Gray code                                           | Python     |
@@ -40,7 +41,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
-| 311    | L33tspeak Translator                                | Python     |
+| 312    | L33tspeak Translator                                | Python     |
 | 311    | Jolly Jumper                                        | R          |
 | 310    | Kids Lotto                                          | Python     |
 | 309    | -                                                   | -          |
