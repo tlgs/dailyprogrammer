@@ -13,6 +13,7 @@ Completed hard challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 312    | Text Summarizer                                     | Python     |
 | 309    | Patterns overlap                                    | Python     |
 | 307    | -                                                   | -          |
 | 8      | Pascal Triangle Coordinates                         | Python     |

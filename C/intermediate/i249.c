@@ -1,4 +1,5 @@
 /* 01/03/2017 */
+
 /* Currently takes about 500-1500 generations to get "Hello, World!" using this parameters.
 ** Uses one-point crossover.
 ** Fitness-proportional selection for parent selection.
@@ -8,6 +9,7 @@
 ** [Can make the mutation probability decrease with time]
 ** BUG: Apparently crashes for targets with 8 chars.
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
