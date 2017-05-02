@@ -1,7 +1,7 @@
 # 01/05/2017
 
 # Does not implement a very robust SBD system at this moment.
-# An improvement  would be to follow Wikipedia's "vanilla" approach of
+# An improvement would be to follow Wikipedia's "vanilla" approach of
 # using a hand-compiled list of abreviations but I was unable to find a good one.
 # https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation
 #

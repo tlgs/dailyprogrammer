@@ -8,8 +8,8 @@ function montyHall(n){
         var smartPick = Math.floor(Math.random()*3);
         var dumbPick = smartPick;
         var doorShow = doors.indexOf("goat") == smartPick ?
-                        doors.reduce((a, b, i) => b == "goat" ? i : a) :
-                        doors.indexOf("goat");
+                       doors.reduce((a, b, i) => b == "goat" ? i : a) :
+                       doors.indexOf("goat");
         smartPick = [0, 1, 2].filter(a => a != dumbPick && a != doorShow)[0];
         dumb += doors[dumbPick]  == "car";
         smart += doors[smartPick]  == "car";

@@ -42,6 +42,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 313    | Subset sum                                          | Python     |
 | 312    | L33tspeak Translator                                | Python     |
 | 311    | Jolly Jumper                                        | R          |
 | 310    | Kids Lotto                                          | Python     |
