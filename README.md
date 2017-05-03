@@ -105,7 +105,7 @@ Completed easy challenges:
 | 44     | Determining the biggest sentence in a text          | JavaScript |
 | 42     | Ninety-nine bottles of beer song                    | JavaScript |
 | 41     | ASCII decoration banner                             | JavaScript |
-| 40     | Printing 1000 numbers without using loops           | JavaScript |
+| 40     | Printing 1000 numbers without using loops           | JavaScript, Python |
 | 39     | FizzBuzz                                            | JavaScript, R, C, Rust, Python |
 | 36     | 1000 Lockers problem                                | JavaScript |
 | 35     | Right triangle counting                             | JavaScript |
