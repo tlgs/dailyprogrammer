@@ -5,7 +5,7 @@ This repository contains scripts used to solve the programming challenges availa
 
 Have in mind that they were created with their intended usage in mind and most do little or no input validation. It is hard to tell what most of these do just by their title.
 
-[Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is a complete list of the available challenges.
+[Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is an almost complete list of the available challenges.
 
 ---
 

@@ -18,7 +18,7 @@ void shuffle(char arr[], int size){
 int bogoSort(char arr[], char sorted[], int size){
     int count = 0;
     while(!(strcmp(arr, sorted) == 0)){
-        shuffle(arr, size);
+        shuffle(arr, size-1);
         count++;
     }
     return count;
