@@ -27,7 +27,7 @@ Completed intermediate challenges:
 | 312    | Next largest number                                 | R          |
 | 310    | Simplifying square roots                            | Python     |
 | 307    | Scrabble problem                                    | Python     |
-| 306    | Gray code                                           | Python     |
+| 306    | Gray code                                           | Python, C  |
 | 301    | Looking for patterns                                | Python     |
 | 269    | Mirror Encryption                                   | Python     |
 | 249    | Hello World Genetic or Evolutionary Algorithm       | C          |
