@@ -76,6 +76,7 @@ Completed easy challenges:
 | 239    | A Game of Threes                                    | C, Rust    |
 | 238    | Consonants and Vowels                               | Python     |
 | 237    | Broken Keyboard                                     | Python     |
+| 236    | Random Bag System                                   | C          |
 | 232    | Palindromes                                         | Python     |
 | 228    | Letters in Alphabetical Order                       | C          |
 | 223    | Garland words                                       | Python     |
