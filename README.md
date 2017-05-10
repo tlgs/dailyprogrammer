@@ -13,6 +13,7 @@ Completed hard challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 313    | Embedded word list                                  | Python     |
 | 312    | Text Summarizer                                     | Python     |
 | 309    | Patterns overlap                                    | Python     |
 | 307    | -                                                   | -          |
