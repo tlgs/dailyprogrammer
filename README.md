@@ -35,6 +35,7 @@ Completed intermediate challenges:
 | 245    | Ggggggg gggg Ggggg-ggggg!                           | Python     |
 | 235    | Scoring a Bowling Game                              | Python     |
 | 46     | Setting random digits to blanks game                | Python     |
+| 25     | Binary representation of a number                   | C          |
 | 23     | McNugget numbers                                    | Python, C  |
 
 

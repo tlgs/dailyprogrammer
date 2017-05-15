@@ -20,8 +20,10 @@ def get_substrings(string, n):
     return result
 
 def is_embedded(string_a, string_b):
-    '''Checks if string_a is embedded in string_b.
-       [WIP] May or may not return the interval in which string_a is embedded in b.'''
+    '''
+    Checks if string_a is embedded in string_b.
+    [WIP] May or may not return the interval in which string_a is embedded in b.
+    '''
 
     i = 0
     for j in range(0, len(string_b)):
@@ -59,9 +61,11 @@ def not_embedded_wordlist(all_words):
     return not_embedded
 
 def embed_word1(word, solution):
-    '''Returns a new solution so that word is now embedded.
-       Explanation:
     '''
+    Returns a new solution so that word is now embedded.
+    Explanation missing.
+    '''
+
     missing_f, missing_b = [], []
 
     for w, s, m in zip([word, word[::-1]], [solution, solution[::-1]], [missing_f, missing_b]):
@@ -98,10 +102,11 @@ def create_solution2(wordlist):
 
     solution = []
 
-    while not test_valid(''.join(solution), wordlist):  # makes for a very costly loop
+    while not test_valid(''.join(solution), wordlist):
         alpha_count = {l : 0 for l in ascii_lowercase}
         for word in wordlist:
             alpha_count[word[0]] += 1
+
         top_letter = max(alpha_count, key=alpha_count.get)
         solution.append(top_letter)
 
