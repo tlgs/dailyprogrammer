@@ -44,6 +44,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 315    | XOR Multiplication                                  | C          |
 | 314    | Concatenated Integers                               | R          |
 | 313    | Subset sum                                          | Python     |
 | 312    | L33tspeak Translator                                | Python     |
