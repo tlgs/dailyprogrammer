@@ -44,6 +44,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 316    | Knight's Metric                                     | Python     |
 | 315    | XOR Multiplication                                  | C          |
 | 314    | Concatenated Integers                               | R          |
 | 313    | Subset sum                                          | Python     |
