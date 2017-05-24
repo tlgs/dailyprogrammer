@@ -18,11 +18,11 @@ def knight_move(x, y):
         curr = nodes.get()
         if curr.value == (x, y):
             break
-        for node in [tuple(map(sum, zip(curr.value, move))) for move in possible_moves]:
-            if node not in visited:
-                visited |= set(node)
-                nodes.put(Node(node, parent=curr))
-                
+        for tile in [tuple(map(sum, zip(curr.value, move))) for move in possible_moves]:
+            if tile not in visited:
+                visited |= set(tile)
+                nodes.put(Node(tile, parent=curr))
+
     path = []
     while curr is not None:
         path.append(str(curr.value))
