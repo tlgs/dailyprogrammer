@@ -21,7 +21,6 @@ def knight_move(x, y):
     found = False
     while nodes:
         curr = nodes.get()
-
         for (dx, dy) in possible_moves:
             tile = (curr.value[0] + dx, curr.value[1] + dy)
             if tile == (x,y):
@@ -37,7 +36,6 @@ def knight_move(x, y):
             if tile not in visited:
                 visited |= set(tile)
                 nodes.put(Node(tile, parent=curr))
-
         if found:
             break
 
