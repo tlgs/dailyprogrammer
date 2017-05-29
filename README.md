@@ -44,6 +44,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 317    | Collatz Tag System                                  | Python     |
 | 316    | Knight's Metric                                     | Python     |
 | 315    | XOR Multiplication                                  | C          |
 | 314    | Concatenated Integers                               | R          |
