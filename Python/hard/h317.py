@@ -13,10 +13,7 @@ class Card(object):
 class Hand(object):
     def __init__(self, cards):
         assert len(cards) == 5
-
         self.cards = cards
-        self.name = None
-        self.tier = None
         self.get_type()
         self.sort_cards()
 
@@ -104,6 +101,7 @@ class Hand(object):
                 elif card_s.rank() > card_o.rank():
                     return False
         return False
+
 
 def get_available_cards(flop, hands):
     deck = [Card(v, s) for v in "234567890JQKA" for s in "CSDH"
