@@ -97,6 +97,7 @@ Completed easy challenges:
 | 147    | Sport Points                                        | Python     |
 | 139    | Pangrams                                            | R          |
 | 122    | Sum Them Digits                                     | JavaScript |
+| 119    | Change Calculator                                   | C          |
 | 115    | Guess-that-number game!                             | C          |
 | 101    | Non-repeating years                                 | C          |
 | 79     | Counting in steps                                   | C          |
