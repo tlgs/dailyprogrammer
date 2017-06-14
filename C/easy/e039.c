@@ -1,10 +1,8 @@
 /* 31/12/2016 */
-
 #include <stdio.h>
 #include <stdlib.h>
 
 int main(int argc, char* argv[]){
-
     int n = (int) strtol(argv[1], NULL, 10);
 
     for(int i = 1; i <= n; i++){

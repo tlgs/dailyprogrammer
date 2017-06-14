@@ -90,6 +90,7 @@ Completed easy challenges:
 | 208    | Culling Numbers                                     | JavaScript |
 | 207    | Bioinformatics 1: DNA Replication                   | C          |
 | 197    | ISBN Validator                                      | JavaScript |
+| 188    | yyyy-mm-dd                                          | C          |
 | 175    | Bogo!                                               | C          |
 | 158    | The Torn Number                                     | C          |
 | 156    | Simple Decoder                                      | C          |
