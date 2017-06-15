@@ -45,6 +45,7 @@ Completed easy challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 319    | Condensing Sentences                                | R, Python  |
 | 317    | Collatz Tag System                                  | Python     |
 | 316    | Knight's Metric                                     | Python     |
 | 315    | XOR Multiplication                                  | C          |

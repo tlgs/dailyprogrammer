@@ -7,7 +7,7 @@ char* findMonth(const char* month){
     const char lookup[12][4] = {"Jan", "Feb", "Mar", "Apr", "May", "Jun", 
                                 "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"};
 
-    char* result = malloc(sizeof(char) * 3);
+    char* result = malloc(sizeof(char) * 4);
     for(int i = 0; i < 12; i++){
         if(strcmp(lookup[i], month) == 0){
             snprintf(result, 3, "%02d", i+1);
@@ -49,7 +49,7 @@ char* parseDate(char* date){
             break;
         }
         default : {
-            if(tell < 'z' && tell > 'a'){
+            if(tell > 'a' && tell < 'z'){
                 if(strlen(date) == 11){ //pesky '\n'
                     sscanf(date, "%3s %2s, %2s", &month, &day, &year);
                     strcpy(month, findMonth(month));
@@ -70,7 +70,7 @@ char* parseDate(char* date){
 
 int main(void){
     FILE *f;
-    f = fopen("gistfile1.txt", "r");
+    f = fopen("messedDates.txt", "r");
 
     char buff[256];
     while(fgets(buff, 256, f)){
