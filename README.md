@@ -11,7 +11,7 @@ Have in mind that they were created with their intended usage in mind and most d
 
 Completed hard challenges:
 
-| Number | Name/Description                                    | Language   |
+| Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
 | 317    | Poker Odds                                          | Python     |
 | 313    | Embedded word list                                  | Python     |
@@ -24,7 +24,7 @@ Completed hard challenges:
 
 Completed intermediate challenges:
 
-| Number | Name/Description                                    | Language   |
+| Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
 | 319    | Worm Wars 1 - Basic Epidemiology                    | Processing |
 | 312    | Next largest number                                 | R          |
@@ -44,7 +44,7 @@ Completed intermediate challenges:
 
 Completed easy challenges:
 
-| Number | Name/Description                                    | Language   |
+| Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
 | 319    | Condensing Sentences                                | R, Python  |
 | 317    | Collatz Tag System                                  | Python     |
@@ -91,6 +91,7 @@ Completed easy challenges:
 | 223    | Garland words                                       | Python     |
 | 208    | Culling Numbers                                     | JavaScript |
 | 207    | Bioinformatics 1: DNA Replication                   | C          |
+| 203    | The Start of Something Big                          | Processing |
 | 197    | ISBN Validator                                      | JavaScript |
 | 188    | yyyy-mm-dd                                          | C          |
 | 175    | Bogo!                                               | C          |
