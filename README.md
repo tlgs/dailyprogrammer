@@ -26,6 +26,7 @@ Completed intermediate challenges:
 
 | Number | Name/Description                                    | Language   |
 |--------|-----------------------------------------------------|------------|
+| 319    | Worm Wars 1 - Basic Epidemiology                    | Processing |
 | 312    | Next largest number                                 | R          |
 | 310    | Simplifying square roots                            | Python     |
 | 307    | Scrabble problem                                    | Python     |

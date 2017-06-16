@@ -43,15 +43,11 @@ class Individual{
 class Population{
     Individual[] pop;
     
-    int ns, ni, nr;
-    
     public Population(){
         pop = new Individual[N_POP];
-        ns = N_POP - SEED;
-        ni = SEED;
-        nr = 0;
+        
         for(int i=0; i < N_POP; i++){
-            char init_state = i < ni ? 'I' : 'S'; 
+            char init_state = i < SEED ? 'I' : 'S'; 
             pop[i] = new Individual(init_state, X_MARGIN+(i%BOXES_ROW)*(STEP+BOX_WIDTH), Y_MARGIN+(i/BOXES_ROW)*(STEP+BOX_HEIGHT));
             pop[i].colorize();
         }
