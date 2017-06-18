@@ -36,6 +36,7 @@ Completed intermediate challenges:
 | 249    | Hello World Genetic or Evolutionary Algorithm       | C          |
 | 245    | Ggggggg gggg Ggggg-ggggg!                           | Python     |
 | 235    | Scoring a Bowling Game                              | Python     |
+| 47     | String digits to integers                           | C          |
 | 46     | Setting random digits to blanks game                | Python     |
 | 25     | Binary representation of a number                   | C          |
 | 23     | McNugget numbers                                    | Python, C  |
