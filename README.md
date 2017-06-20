@@ -71,6 +71,7 @@ Completed easy challenges:
 | 290    | Kaprekar Numbers                                    | JavaScript |
 | 287    | Kaprekar's Routine                                  | C          |
 | 286    | Reverse Factorial                                   | Python     |
+| 282    | Unusual Bases                                       | C          |
 | 276    | Recktangles                                         | Python     |
 | 275    | Splurthian Chemistry 101                            | C          |
 | 272    | What's in the bag?                                  | Python     |

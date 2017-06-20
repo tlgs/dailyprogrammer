@@ -7,7 +7,7 @@ int eng_to_dec(char* digit){
     for(int i=0; i<10; i++){
         if(fumble(digit) == decode[i]){
             return i;
-       }
+        }
     }
 }
 
