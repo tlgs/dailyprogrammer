@@ -9,10 +9,13 @@ Have in mind that they were created with their intended usage in mind and most d
 
 ---
 
+Path to Philosophy
+
 Completed hard challenges:
 
 | Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
+| 320    | Path to Philosophy                                  | Python     |
 | 317    | Poker Odds                                          | Python     |
 | 313    | Embedded word list                                  | Python     |
 | 312    | Text Summarizer                                     | Python     |

@@ -49,7 +49,7 @@ void toBaseDec(char* value, char* result){
 
 int main(int argc, char* argv[]){
     if(argc != 3){
-        printf("Too many arguments.\n");
+        printf("This program takes TWO arguments.\n");
         return EXIT_FAILURE;
     }
 
