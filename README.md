@@ -50,6 +50,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
+| 321    | Talking Clock                                       | Python     |
 | 319    | Condensing Sentences                                | R, Python  |
 | 317    | Collatz Tag System                                  | Python     |
 | 316    | Knight's Metric                                     | Python     |
