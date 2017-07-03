@@ -111,6 +111,7 @@ Completed easy challenges:
 | 115    | Guess-that-number game!                             | C          |
 | 101    | Non-repeating years                                 | C          |
 | 79     | Counting in steps                                   | C          |
+| 61     | Ullman's Puzzle                                     | C          |
 | 61     | Rotating Binaries                                   | C          |
 | 60     | Polite numbers: possible sequences                  | Python     |
 | 58     | Integer to String in any base (2-36)                | Rust       |
