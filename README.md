@@ -90,7 +90,7 @@ Completed easy challenges:
 | 242    | Funny plants                                        | C          |
 | 240    | Typoglycemia                                        | Python     |
 | 239    | A Game of Threes                                    | C, Rust    |
-| 238    | Consonants and Vowels                               | Python     |
+| 238    | Consonants and Vowels                               | Python, C  |
 | 237    | Broken Keyboard                                     | Python     |
 | 236    | Random Bag System                                   | C          |
 | 232    | Palindromes                                         | Python     |
