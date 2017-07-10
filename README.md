@@ -50,6 +50,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
+| 322    | 3SUM                                                | Python     |
 | 322    | All Pairs Test Generator                            | Python     |
 | 321    | Talking Clock                                       | Python     |
 | 319    | Condensing Sentences                                | R, Python  |
