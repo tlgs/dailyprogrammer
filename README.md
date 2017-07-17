@@ -102,6 +102,7 @@ Completed easy challenges:
 | 203    | The Start of Something Big                          | Processing |
 | 197    | ISBN Validator                                      | JavaScript |
 | 188    | yyyy-mm-dd                                          | C          |
+| 185    | Generated twitter handles                           | C          |
 | 175    | Bogo!                                               | C          |
 | 158    | The Torn Number                                     | C          |
 | 156    | Simple Decoder                                      | C          |
