@@ -9,7 +9,6 @@ Have in mind that they were created with their intended usage in mind and most d
 
 ---
 
-Path to Philosophy
 
 Completed hard challenges:
 
