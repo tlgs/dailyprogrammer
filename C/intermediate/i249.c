@@ -67,7 +67,7 @@ int main(int argc, char *argv[]){
         generation = nextGen(generation, target);
         printHeader(generation.no, getBest(generation.population));
     }
-    printPop(generation.population, POP_SIZE);
+    //printPop(generation.population, POP_SIZE);
     //printf("It took me %d generations to converge", generation.no);
 }
 

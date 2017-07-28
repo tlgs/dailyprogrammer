@@ -93,6 +93,7 @@ Completed easy challenges:
 | 238    | Consonants and Vowels                               | Python, C  |
 | 237    | Broken Keyboard                                     | Python     |
 | 236    | Random Bag System                                   | C          |
+| 235    | Ruth-Aaron Pairs                                    | C, Python  |
 | 232    | Palindromes                                         | Python     |
 | 228    | Letters in Alphabetical Order                       | C          |
 | 223    | Garland words                                       | Python     |
