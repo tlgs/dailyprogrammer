@@ -14,6 +14,7 @@ Completed hard challenges:
 
 | Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
+| 326    | Multifaceted alphabet blocks                        | C          |
 | 320    | Path to Philosophy                                  | Python     |
 | 317    | Poker Odds                                          | Python     |
 | 313    | Embedded word list                                  | Python     |
