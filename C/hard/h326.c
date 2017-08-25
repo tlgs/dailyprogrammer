@@ -51,7 +51,7 @@ int contains(char blocks[], int N, char word[]){
 int validate(char blocks[], int N, char words[][MAX_WLENGTH], int size){
     int flag = 1;
     for (int i = 0; i < size; i++){
-        if(!contains(blocks, N, words[i])){
+        if (!contains(blocks, N, words[i])){
             //puts(words[i]);
             flag = 0;
             break;

@@ -29,6 +29,7 @@ Completed intermediate challenges:
 
 | Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
+| 328    | Pyramid sliding                                     | C          |
 | 319    | Worm Wars 1 - Basic Epidemiology                    | Processing |
 | 312    | Next largest number                                 | R          |
 | 310    | Simplifying square roots                            | Python     |
@@ -51,7 +52,7 @@ Completed easy challenges:
 | Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
 | 328    | Latin Squares                                       | Python     |
-| 322    | 3SUM                                                | Python, C  |
+| 323    | 3SUM                                                | Python, C  |
 | 322    | All Pairs Test Generator                            | Python     |
 | 321    | Talking Clock                                       | Python     |
 | 319    | Condensing Sentences                                | R, Python  |

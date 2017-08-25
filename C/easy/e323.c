@@ -23,22 +23,22 @@ int main(int argc, char* argv[]){
     unsigned int count = 0;
 
     qsort(v, n, sizeof(int), cmpInt);
-    for(int i=0; i < n-3; i++){
+    for (int i=0; i < n-3; i++){
         int a = v[i];
         int start = i+1;
         int end = n-1;
-        while(start < end){
+        while (start < end){
             int b = v[start];
             int c = v[end];
-            if(a+b+c == 0){
+            if (a+b+c == 0){
                 char flag = 0;
-                for(int j = count-1; j >= 0; j--){
+                for (int j = count-1; j >= 0; j--){
                     if(found[j][0] == a && found[j][1] == b && found[j][2] == c){
                         flag = 1;
                         break;
                     }
                 }
-                if(!flag){
+                if (!flag){
                     found[count][0] = a;
                     found[count][1] = b;
                     found[count][2] = c;
@@ -47,7 +47,7 @@ int main(int argc, char* argv[]){
                 }
                 end--;
             }
-            else if(a+b+c > 0){
+            else if (a+b+c > 0){
                 end--;
             }
             else{
