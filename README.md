@@ -111,6 +111,7 @@ Completed easy challenges:
 | 156    | Simple Decoder                                      | C          |
 | 149    | Disemvoweler                                        | C          |
 | 147    | Sport Points                                        | Python     |
+| 143    | Braille                                             | C          |
 | 139    | Pangrams                                            | R          |
 | 122    | Sum Them Digits                                     | JavaScript |
 | 119    | Change Calculator                                   | C          |

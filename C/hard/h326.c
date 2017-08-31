@@ -1,5 +1,5 @@
 /* 14/08/2017 */
-/* usage: .\a < real_words.txt */
+/* only contains a checker */
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -46,18 +46,6 @@ int contains(char blocks[], int N, char word[]){
     while (top > -1);
 
     return 0;
-}
-
-int validate(char blocks[], int N, char words[][MAX_WLENGTH], int size){
-    int flag = 1;
-    for (int i = 0; i < size; i++){
-        if (!contains(blocks, N, words[i])){
-            //puts(words[i]);
-            flag = 0;
-            break;
-        }  
-    }
-    return flag;
 }
 
 int main(void){
