@@ -23,24 +23,19 @@ int main(void){
     if (x > y)
        SWAP(x, y);
     
-    int dx = 0, dy = 0, f = 0;
+    int dx = 0, dy = 0, c = 0;
     while (dy != s){
-        if (f)
+        if (dx == x)
             dx = 0;
-        else{
-            if (dx == x){
-                f = !f;
-                continue;
-            }
+        else
             dy = y;
-        }
         printf("(%d, %d)\n", dx, dy);
 
         int dc = dx;
         dx = dx+dy > x ? x : dx+dy;
         dy = dc+dy > x ? dy-(x-dc) : 0;
         printf("(%d, %d)\n", dx, dy);
-
-        f = !f;
+        c+=2;
     }
+    printf("steps: %d", c);
 }

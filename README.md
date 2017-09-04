@@ -52,6 +52,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
+| 330    | Surround the circles                                | Python     |
 | 328    | Latin Squares                                       | Python     |
 | 323    | 3SUM                                                | Python, C  |
 | 322    | All Pairs Test Generator                            | Python     |
