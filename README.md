@@ -29,6 +29,7 @@ Completed intermediate challenges:
 
 | Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
+| 334    | Carpet Fractals                                     | C          |
 | 329    | Solve the Water Bucket Riddle                       | C          |
 | 328    | Pyramid sliding                                     | C          |
 | 319    | Worm Wars 1 - Basic Epidemiology                    | Processing |
