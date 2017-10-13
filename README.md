@@ -52,7 +52,10 @@ Completed easy challenges:
 
 | Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
+| 335    | Consecutive Distance Rating                         | C          |
+| 334    | -                                                   | -          |
 | 333    | Packet Assembler                                    | Python     |
+| 332    | -                                                   | -          |
 | 330    | Surround the circles                                | Python     |
 | 328    | Latin Squares                                       | Python     |
 | 323    | 3SUM                                                | Python, C  |

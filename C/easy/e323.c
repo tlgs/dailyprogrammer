@@ -13,7 +13,7 @@ int main(int argc, char* argv[]){
     // parse list of integers
     int n = argc-1;
     int *v = malloc(sizeof(int) * n);
-    for(int i=0; i < n; i++){
+    for (int i=0; i < n; i++){
         v[i] = strtol(argv[i+1], NULL, 10);
     }
 
@@ -33,7 +33,7 @@ int main(int argc, char* argv[]){
             if (a+b+c == 0){
                 char flag = 0;
                 for (int j = count-1; j >= 0; j--){
-                    if(found[j][0] == a && found[j][1] == b && found[j][2] == c){
+                    if (found[j][0] == a && found[j][1] == b && found[j][2] == c){
                         flag = 1;
                         break;
                     }
