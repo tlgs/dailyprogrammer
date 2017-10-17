@@ -37,5 +37,5 @@ int main(void){
 
     printf("P2\n%d %d\n%d\n", _pow(3, niterations), _pow(3, niterations), ncolors-1);
     for (int i=0; i < _pow(_pow(3, niterations), 2); i++)
-        printf("%d%c", canvas[_index(i, niterations)], i % _pow(3, niterations) == 0 && i > 0 ? '\n' : 32);
+        printf("%d%c", canvas[_index(i, niterations)], i % _pow(3, niterations) == 0 && i > 0 ? '\n' : ' ');
 }

@@ -53,6 +53,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language   |
 |--------|-----------------------------------------------------|------------|
+| 336    | Cannibal numbers                                    | C          |
 | 335    | Consecutive Distance Rating                         | C          |
 | 334    | -                                                   | -          |
 | 333    | Packet Assembler                                    | Python     |
