@@ -53,7 +53,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
-| 340    | First Recurring Character                           | [Befunge-93](Befunge-93/easy/e340.bf)               |
+| 340    | First Recurring Character                           | [Befunge](Befunge/easy/e340.bf)               |
 | 336    | Cannibal numbers                                    | [C](C/easy/e336.c)                |
 | 335    | Consecutive Distance Rating                         | [C](C/easy/e335.c)                |
 | 334    | -                                                   | -                                 |
