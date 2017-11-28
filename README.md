@@ -32,7 +32,7 @@ Completed intermediate challenges:
 | 334    | Carpet Fractals                                     | [C](C/intermediate/i334.c)                                          |
 | 329    | Solve the Water Bucket Riddle                       | [C](C/intermediate/i329.c)                                          |
 | 328    | Pyramid sliding                                     | [C](C/intermediate/i328.c)                                          |
-| 319    | Worm Wars 1 - Basic Epidemiology                    | [Processing](Processing/intermediate/i319/i319.pde)                      |
+| 319    | Worm Wars 1 - Basic Epidemiology                    | [Processing](Processing/intermediate/i319/i319.pde)                 |
 | 312    | Next largest number                                 | [R](R/intermediate/i31.R)                                           |
 | 310    | Simplifying square roots                            | [Python](Python/intermediate/i310.py)                               |
 | 307    | Scrabble problem                                    | [Python](Python/intermediate/i307.py)                               |
@@ -53,7 +53,8 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
-| 340    | First Recurring Character                           | [Befunge](Befunge/easy/e340.bf)               |
+| 342    | Polynomial Division                                 | [Python](Python/easy/e342.py)     |
+| 340    | First Recurring Character                           | [Befunge](Befunge/easy/e340.bf)   |
 | 336    | Cannibal numbers                                    | [C](C/easy/e336.c)                |
 | 335    | Consecutive Distance Rating                         | [C](C/easy/e335.c)                |
 | 334    | -                                                   | -                                 |
