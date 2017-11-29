@@ -1,14 +1,14 @@
 # 27/11/2017
-import requests
 import json
+import requests
+
 AppID = "YOUR-APPID"
 
 def wolfram_poly_div(num, denom):
     expr = '(' + num + ")/(" + denom + ')'
     expr = expr.replace(' ', "%2B")
 
-    query = "http://api.wolframalpha.com/v2/query?input="
-    query += expr
+    query = "http://api.wolframalpha.com/v2/query?input=" + expr
     query += "&appid=" + AppID
     query += "&format=plaintext&output=JSON"
     query += "&includepodid=QuotientAndRemainder"
@@ -19,5 +19,5 @@ def wolfram_poly_div(num, denom):
     quotient, remainder = result.split(' = ')[1].split('×', maxsplit=1)
     remainder = remainder.split('+')[1]
 
-    return {"quotient" : quotient.rstrip().strip("()"), 
+    return {"quotient" : quotient.rstrip().strip("()"),
             "remainder": remainder.strip()}
