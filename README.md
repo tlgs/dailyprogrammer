@@ -53,6 +53,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
+| 343    | Major Scales                                        | [Python](Python/easy/e343.py)     |
 | 342    | Polynomial Division                                 | [Python](Python/easy/e342.py)     |
 | 341    | Repeating numbers                                   | [C](C/easy/e341.c)                |
 | 340    | First Recurring Character                           | [Befunge](Befunge/easy/e340.bf)   |
