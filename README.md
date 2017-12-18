@@ -53,6 +53,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
+| 343    | Baum-Sweet Sequence                                 | [Python](Python/easy/e344.py)     |
 | 343    | Major Scales                                        | [Python](Python/easy/e343.py)     |
 | 342    | Polynomial Division                                 | [Python](Python/easy/e342.py)     |
 | 341    | Repeating numbers                                   | [C](C/easy/e341.c)                |
