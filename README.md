@@ -54,6 +54,7 @@ Completed easy challenges:
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
 | 342    | Polynomial Division                                 | [Python](Python/easy/e342.py)     |
+| 341    | Repeating numbers                                   | [C](C/easy/e341.c)                |
 | 340    | First Recurring Character                           | [Befunge](Befunge/easy/e340.bf)   |
 | 336    | Cannibal numbers                                    | [C](C/easy/e336.c)                |
 | 335    | Consecutive Distance Rating                         | [C](C/easy/e335.c)                |
@@ -102,7 +103,7 @@ Completed easy challenges:
 | 252    | Sailors and monkeys and coconuts, oh my!            | [JavaScript](JavaScript/easy/e252.js)               |
 | 242    | Funny plants                                        | [C](C/easy/e242.c)                                  |
 | 240    | Typoglycemia                                        | [Python](Python/easy/e240.py)                       |
-| 239    | A Game of Threes                                    | [C](C/easy/e239.c) , [Rust](Rust/easy/e239.rs)      |
+| 239    | A Game of Threes                                    | [C](C/easy/e239.c) , [Rust](Rust/easy/e239.rs), [Befunge](Befunge/easy/e239.bf)      |
 | 238    | Consonants and Vowels                               | [Python](Python/easy/e238.py), [C](C/easy/e238.c)   |
 | 237    | Broken Keyboard                                     | [Python](Python/easy/e237.py)                       |
 | 236    | Random Bag System                                   | [C](C/easy/e236.c)                                  |
