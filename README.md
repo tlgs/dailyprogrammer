@@ -157,7 +157,7 @@ Completed easy challenges:
 | 31     | Base-26 multiplication function                     | [JavaScript](JavaScript/easy/e031.js) |
 | 30     | Target sum using elements of a list                 | [JavaScript](JavaScript/easy/e030.js) |
 | 29     | Is the string a palindrome?                         | [JavaScript](JavaScript/easy/e029.js) |
-| 27     | Century of a year                                   | [JavaScript](JavaScript/easy/e027.js) |
+| 27     | Century of a year                                   | [JavaScript](JavaScript/easy/e027.js), [Befunge](Befunge/easy/e027.bf) |
 | 26     | Removal of consecutive duplicates                   | [JavaScript](JavaScript/easy/e026.js) |
 | 25     | Winner of a vote                                    | [JavaScript](JavaScript/easy/e025.js) |
 | 24     | -                                                   | -                                     |
