@@ -53,6 +53,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
+| 347    | How long has the light been on?                     | [Befunge](Befunge/easy/e347.bf)   |
 | 346    | Cryptarithmetic Solver                              | [Python](Python/easy/e346.py)     |
 | 335    | -                                                   | -                                 |
 | 344    | Baum-Sweet Sequence                                 | [Python](Python/easy/e344.py)     |
