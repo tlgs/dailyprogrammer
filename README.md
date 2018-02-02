@@ -53,6 +53,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
+| 348    | The rabbit problem                                  | [C](C/easy/e348.c)                |
 | 347    | How long has the light been on?                     | [Befunge](Befunge/easy/e347.bf)   |
 | 346    | Cryptarithmetic Solver                              | [Python](Python/easy/e346.py)     |
 | 335    | -                                                   | -                                 |
