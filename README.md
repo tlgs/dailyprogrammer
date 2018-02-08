@@ -29,6 +29,7 @@ Completed intermediate challenges:
 
 | Number | Title                                               | Language                                                            |
 |--------|-----------------------------------------------------|---------------------------------------------------------------------|
+| 350    | Balancing My Spending                               | [C](C/intermediate/i350.c)                                          |
 | 334    | Carpet Fractals                                     | [C](C/intermediate/i334.c)                                          |
 | 329    | Solve the Water Bucket Riddle                       | [C](C/intermediate/i329.c)                                          |
 | 328    | Pyramid sliding                                     | [C](C/intermediate/i328.c)                                          |
