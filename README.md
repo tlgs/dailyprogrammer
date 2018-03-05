@@ -54,6 +54,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
+| 353    | Closest String                                      | [C](C/easy/e353.c)                |
 | 352    | Making Imgur-style Links                            | [C](C/easy/e352.c)                |
 | 350    | Bookshelf problem                                   | [Python](Python/easy/e350.py)     |
 | 349    | Change Calculator                                   | [Python](Python/easy/e349.py)     |
