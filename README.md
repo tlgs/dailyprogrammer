@@ -54,6 +54,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
+| 352    | Making Imgur-style Links                            | [C](C/easy/e352.c)                |
 | 350    | Bookshelf problem                                   | [Python](Python/easy/e350.py)     |
 | 348    | The rabbit problem                                  | [C](C/easy/e348.c)                |
 | 347    | How long has the light been on?                     | [Befunge](Befunge/easy/e347.bf)   |
