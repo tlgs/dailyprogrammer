@@ -14,6 +14,7 @@ Completed hard challenges:
 
 | Number | Title                                               | Language                           |
 |--------|-----------------------------------------------------|------------------------------------|
+| 353    | Create a Simple Stochastic Computing Machine        | [C](C/hard/h353.c)                 |
 | 326    | Multifaceted alphabet blocks                        | [C](C/hard/h326.c)                 |
 | 320    | Path to Philosophy                                  | [Python](Python/hard/h320.py)      |
 | 317    | Poker Odds                                          | [Python](Python/hard/h317.py)      |
