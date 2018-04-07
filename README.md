@@ -55,6 +55,7 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
+| 355    | Alphabet Cipher                                     | [Python](Python/easy/e355.py)     |
 | 353    | Closest String                                      | [C](C/easy/e353.c)                |
 | 352    | Making Imgur-style Links                            | [C](C/easy/e352.c)                |
 | 350    | Bookshelf problem                                   | [Python](Python/easy/e350.py)     |
