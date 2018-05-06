@@ -1,5 +1,6 @@
+# dailyprogrammer
+
 ![hey](https://d.thumbs.redditmedia.com/mASxBAsOsW90oWe-.png)
----
 
 This repository contains scripts used to solve the programming challenges available over at [Reddit's /r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer).
 
@@ -8,7 +9,6 @@ Have in mind that they were created with their intended usage in mind and most d
 [Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is an almost complete list of the available challenges.
 
 ---
-
 
 Completed hard challenges:
 
@@ -23,8 +23,6 @@ Completed hard challenges:
 | 309    | Patterns overlap                                    | [Python](Python/hard/h309.py)      |
 | 307    | -                                                   | -                                  |
 | 8      | Pascal Triangle Coordinates                         | [Python](Python/hard/h008.py)      |
-
-
 
 Completed intermediate challenges:
 
@@ -50,12 +48,11 @@ Completed intermediate challenges:
 | 25     | Binary representation of a number                   | [C](C/intermediate/i025.c)                                          |
 | 23     | McNugget numbers                                    | [Python](Python/intermediate/i023.py), [C](C/intermediate/i023.c)   |
 
-
-
 Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
+| 359    | Regular Paperfold Sequence Generator                | [Python](Python/easy/e359.py)     |
 | 355    | Alphabet Cipher                                     | [Python](Python/easy/e355.py)     |
 | 353    | Closest String                                      | [C](C/easy/e353.c)                |
 | 352    | Making Imgur-style Links                            | [C](C/easy/e352.c)                |
