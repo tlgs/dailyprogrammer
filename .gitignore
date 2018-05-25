@@ -1,5 +1,7 @@
-*.exe
-*.Rhistory
-*.txt
-JavaScript/test.html
 .vscode
+*.exe
+*.txt
+*.Rhistory
+JavaScript/test.html
+elm-stuff/
+elm-package.json
