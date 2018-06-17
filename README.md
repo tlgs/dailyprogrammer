@@ -52,6 +52,8 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
+| 363    | I before E except after C                           | [Python](Python/easy/e363.py)     |
+| 362    | -                                                   | -                                 |
 | 361    | Tally Program                                       | [Python](Python/easy/e361.py)     |
 | 360    | -                                                   | -                                 |
 | 359    | Regular Paperfold Sequence Generator                | [Python](Python/easy/e359.py)     |
