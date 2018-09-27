@@ -9,7 +9,15 @@ let getRolls (s : string) =
     List.init numbers.[0] (fun x -> rnd.Next(1, numbers.[1] + 1))
 
 while true do
-    let rolls = Console.ReadLine() |> getRolls
+    let rolls =
+        Console.ReadLine()
+        |> getRolls
 
-    rolls |> List.sum |> printf "%d: "
-    rolls |> List.map string |>  String.concat " " |> printfn "%s"
+    rolls
+    |> List.sum
+    |> printf "%d: "
+
+    rolls
+    |> List.map string
+    |>  String.concat " "
+    |> printfn "%s"

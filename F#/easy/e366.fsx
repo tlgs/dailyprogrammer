@@ -3,7 +3,6 @@
 open System.Net
 
 let funnel (x : string) (y : string) : bool =
-
     let removeOneLetter (x : string) : string list =
         let n = x.Length - 1
         [ for i in 0 .. n -> x.[0 .. (i - 1)] + x.[(i + 1) .. n] ]
