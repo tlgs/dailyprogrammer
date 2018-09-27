@@ -54,6 +54,7 @@ Completed easy challenges:
 |--------|-----------------------------------------------------|-----------------------------------|
 | 367    | Subfactorials - Another Twist on Factorials         | [F#](F#/easy/e367.fsx)            |
 | 366    | Word funnel 1                                       | [F#](F#/easy/e366.fsx)            |
+| 365    | Up-arrow Notation                                   | [F#](F#/easy/e365.fsx)            |
 | 364    | Create a Dice Roller                                | [F#](F#/easy/e364.fsx)            |
 | 363    | I before E except after C                           | [Python](Python/easy/e363.py)     |
 | 362    | -                                                   | -                                 |
