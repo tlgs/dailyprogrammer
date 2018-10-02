@@ -52,10 +52,10 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
-| 367    | Subfactorials - Another Twist on Factorials         | [F#](F#/easy/e367.fsx)            |
-| 366    | Word funnel 1                                       | [F#](F#/easy/e366.fsx)            |
-| 365    | Up-arrow Notation                                   | [F#](F#/easy/e365.fsx)            |
-| 364    | Create a Dice Roller                                | [F#](F#/easy/e364.fsx)            |
+| 367    | Subfactorials - Another Twist on Factorials         | [F#](F%23/easy/e367.fsx)            |
+| 366    | Word funnel 1                                       | [F#](F%23/easy/e366.fsx)            |
+| 365    | Up-arrow Notation                                   | [F#](F%23/easy/e365.fsx)            |
+| 364    | Create a Dice Roller                                | [F#](F%23/easy/e364.fsx)            |
 | 363    | I before E except after C                           | [Python](Python/easy/e363.py)     |
 | 362    | -                                                   | -                                 |
 | 361    | Tally Program                                       | [Python](Python/easy/e361.py)     |
@@ -109,8 +109,8 @@ Completed easy challenges:
 | 290    | Kaprekar Numbers                                    | [JavaScript](JavaScript/easy/e290.js) |
 | 287    | Kaprekar's Routine                                  | [C](C/easy/e287.c)                    |
 | 286    | Reverse Factorial                                   | [Python](Python/easy/e286.py)         |
+| 283    | Anagram Detector                                    | [F#](F%23/easy/e283.fsx)                |
 | 282    | Unusual Bases                                       | [C](C/easy/e282.c)                    |
-| 276    | Recktangles                                         | [Python](Python/easy/e276.py)         |
 | 275    | Splurthian Chemistry 101                            | [C](C/easy/e275.c)                    |
 | 272    | What's in the bag?                                  | [Python](Python/easy/e272.py)         |
 | 271    | Critical Hit                                        | [C](C/easy/e271.c)                    |
@@ -164,7 +164,6 @@ Completed easy challenges:
 | 42     | Ninety-nine bottles of beer song                    | [JavaScript](JavaScript/easy/e042.js) |
 | 41     | ASCII decoration banner                             | [JavaScript](JavaScript/easy/e041.js) |
 | 40     | Printing 1000 numbers without using loops           | [JavaScript](JavaScript/easy/e040.js), [Python](Python/easy/e040.py), [C](C/easy/e040.c), [Befunge](Befunge/easy/e040.bf)  |
-| 39     | FizzBuzz                                            | [JavaScript](JavaScript/easy/e039.js), [R](R/easy/e039.R), [C](C/easy/e039.c), [Rust](Rust/easy/e039.rs), [Python](Python/easy/e039.py), [Elm](Elm/easy/e039.elm), [F#](F#/easy/e039.fsx) |
 | 36     | 1000 Lockers problem                                | [JavaScript](JavaScript/easy/e036.js) |
 | 35     | Right triangle counting                             | [JavaScript](JavaScript/easy/e035.js) |
 | 34     | Sum of the squares of the two larger numbers        | [JavaScript](JavaScript/easy/e034.js) |
