@@ -28,6 +28,7 @@ Completed intermediate challenges:
 
 | Number | Title                                               | Language                                                            |
 |--------|-----------------------------------------------------|---------------------------------------------------------------------|
+| 364    | The Ducci Sequence                                  | [F#](F%23/intermediate/i364.fsx)                                    |
 | 355    | Possible Number of Pies                             | [Python](Python/intermediate/i355.py)                               |
 | 350    | Balancing My Spending                               | [C](C/intermediate/i350.c)                                          |
 | 334    | Carpet Fractals                                     | [C](C/intermediate/i334.c)                                          |
@@ -52,10 +53,10 @@ Completed easy challenges:
 
 | Number | Title                                               | Language                          |
 |--------|-----------------------------------------------------|-----------------------------------|
-| 367    | Subfactorials - Another Twist on Factorials         | [F#](F%23/easy/e367.fsx)            |
-| 366    | Word funnel 1                                       | [F#](F%23/easy/e366.fsx)            |
-| 365    | Up-arrow Notation                                   | [F#](F%23/easy/e365.fsx)            |
-| 364    | Create a Dice Roller                                | [F#](F%23/easy/e364.fsx)            |
+| 367    | Subfactorials - Another Twist on Factorials         | [F#](F%23/easy/e367.fsx)          |
+| 366    | Word funnel 1                                       | [F#](F%23/easy/e366.fsx)          |
+| 365    | Up-arrow Notation                                   | [F#](F%23/easy/e365.fsx)          |
+| 364    | Create a Dice Roller                                | [F#](F%23/easy/e364.fsx)          |
 | 363    | I before E except after C                           | [Python](Python/easy/e363.py)     |
 | 362    | -                                                   | -                                 |
 | 361    | Tally Program                                       | [Python](Python/easy/e361.py)     |
