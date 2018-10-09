@@ -57,7 +57,7 @@ Completed easy challenges:
 | 366    | Word funnel 1                                       | [F#](F%23/easy/e366.fsx)          |
 | 365    | Up-arrow Notation                                   | [F#](F%23/easy/e365.fsx)          |
 | 364    | Create a Dice Roller                                | [F#](F%23/easy/e364.fsx)          |
-| 363    | I before E except after C                           | [Python](Python/easy/e363.py)     |
+| 363    | I before E except after C                           | [Python](Python/easy/e363.py), [F#](F%23/easy/e363.fsx) |
 | 362    | -                                                   | -                                 |
 | 361    | Tally Program                                       | [Python](Python/easy/e361.py)     |
 | 360    | -                                                   | -                                 |
