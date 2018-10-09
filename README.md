@@ -57,7 +57,7 @@ Completed easy challenges:
 | 366    | Word funnel 1                                       | [F#](F%23/easy/e366.fsx)          |
 | 365    | Up-arrow Notation                                   | [F#](F%23/easy/e365.fsx)          |
 | 364    | Create a Dice Roller                                | [F#](F%23/easy/e364.fsx)          |
-| 363    | I before E except after C                           | [Python](Python/easy/e363.py), [F#](F%23/easy/e363.fsx) |
+| 363    | I before E except after C                           | [Python](Python/easy/e363.py), [F#](F%23/easy/e363.fsx), [Befunge](Befunge/easy/e363.befunge) |
 | 362    | -                                                   | -                                 |
 | 361    | Tally Program                                       | [Python](Python/easy/e361.py)     |
 | 360    | -                                                   | -                                 |
@@ -68,14 +68,14 @@ Completed easy challenges:
 | 350    | Bookshelf problem                                   | [Python](Python/easy/e350.py)     |
 | 349    | Change Calculator                                   | [Python](Python/easy/e349.py)     |
 | 348    | The rabbit problem                                  | [C](C/easy/e348.c)                |
-| 347    | How long has the light been on?                     | [Befunge](Befunge/easy/e347.bf)   |
+| 347    | How long has the light been on?                     | [Befunge](Befunge/easy/e347.befunge)   |
 | 346    | Cryptarithmetic Solver                              | [Python](Python/easy/e346.py)     |
 | 335    | -                                                   | -                                 |
 | 344    | Baum-Sweet Sequence                                 | [Python](Python/easy/e344.py)     |
 | 343    | Major Scales                                        | [Python](Python/easy/e343.py)     |
 | 342    | Polynomial Division                                 | [Python](Python/easy/e342.py)     |
 | 341    | Repeating numbers                                   | [C](C/easy/e341.c)                |
-| 340    | First Recurring Character                           | [Befunge](Befunge/easy/e340.bf)   |
+| 340    | First Recurring Character                           | [Befunge](Befunge/easy/e340.befunge)   |
 | 336    | Cannibal numbers                                    | [C](C/easy/e336.c)                |
 | 335    | Consecutive Distance Rating                         | [C](C/easy/e335.c)                |
 | 334    | -                                                   | -                                 |
@@ -123,7 +123,7 @@ Completed easy challenges:
 | 252    | Sailors and monkeys and coconuts, oh my!            | [JavaScript](JavaScript/easy/e252.js)               |
 | 242    | Funny plants                                        | [C](C/easy/e242.c)                                  |
 | 240    | Typoglycemia                                        | [Python](Python/easy/e240.py)                       |
-| 239    | A Game of Threes                                    | [C](C/easy/e239.c) , [Rust](Rust/easy/e239.rs), [Befunge](Befunge/easy/e239.bf)      |
+| 239    | A Game of Threes                                    | [C](C/easy/e239.c) , [Rust](Rust/easy/e239.rs), [Befunge](Befunge/easy/e239.befunge)      |
 | 238    | Consonants and Vowels                               | [Python](Python/easy/e238.py), [C](C/easy/e238.c)   |
 | 237    | Broken Keyboard                                     | [Python](Python/easy/e237.py)                       |
 | 236    | Random Bag System                                   | [C](C/easy/e236.c)                                  |
@@ -164,7 +164,7 @@ Completed easy challenges:
 | 44     | Determining the biggest sentence in a text          | [JavaScript](JavaScript/easy/e044.js) |
 | 42     | Ninety-nine bottles of beer song                    | [JavaScript](JavaScript/easy/e042.js) |
 | 41     | ASCII decoration banner                             | [JavaScript](JavaScript/easy/e041.js) |
-| 40     | Printing 1000 numbers without using loops           | [JavaScript](JavaScript/easy/e040.js), [Python](Python/easy/e040.py), [C](C/easy/e040.c), [Befunge](Befunge/easy/e040.bf)  |
+| 40     | Printing 1000 numbers without using loops           | [JavaScript](JavaScript/easy/e040.js), [Python](Python/easy/e040.py), [C](C/easy/e040.c), [Befunge](Befunge/easy/e040.befunge)  |
 | 36     | 1000 Lockers problem                                | [JavaScript](JavaScript/easy/e036.js) |
 | 35     | Right triangle counting                             | [JavaScript](JavaScript/easy/e035.js) |
 | 34     | Sum of the squares of the two larger numbers        | [JavaScript](JavaScript/easy/e034.js) |
@@ -172,7 +172,7 @@ Completed easy challenges:
 | 31     | Base-26 multiplication function                     | [JavaScript](JavaScript/easy/e031.js) |
 | 30     | Target sum using elements of a list                 | [JavaScript](JavaScript/easy/e030.js) |
 | 29     | Is the string a palindrome?                         | [JavaScript](JavaScript/easy/e029.js) |
-| 27     | Century of a year                                   | [JavaScript](JavaScript/easy/e027.js), [Befunge](Befunge/easy/e027.bf) |
+| 27     | Century of a year                                   | [JavaScript](JavaScript/easy/e027.js), [Befunge](Befunge/easy/e027.befunge) |
 | 26     | Removal of consecutive duplicates                   | [JavaScript](JavaScript/easy/e026.js) |
 | 25     | Winner of a vote                                    | [JavaScript](JavaScript/easy/e025.js) |
 | 24     | -                                                   | -                                     |
