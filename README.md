@@ -165,9 +165,10 @@ Completed easy challenges:
 | 42     | Ninety-nine bottles of beer song                    | [JavaScript](JavaScript/easy/e042.js) |
 | 41     | ASCII decoration banner                             | [JavaScript](JavaScript/easy/e041.js) |
 | 40     | Printing 1000 numbers without using loops           | [JavaScript](JavaScript/easy/e040.js), [Python](Python/easy/e040.py), [C](C/easy/e040.c), [Befunge](Befunge/easy/e040.befunge)  |
+| 39     | FizzBuzz                                            | [JavaScript](JavaScript/easy/e039.js), [R](R/easy/e039.R), [C](C/easy/e039.c), [Rust](Rust/easy/e039.rs), [Python](Python/easy/e039.py), [Elm](Elm/easy/e039.elm), [F#](F%23/easy/e039.fsx) |
 | 36     | 1000 Lockers problem                                | [JavaScript](JavaScript/easy/e036.js) |
 | 35     | Right triangle counting                             | [JavaScript](JavaScript/easy/e035.js) |
-| 34     | Sum of the squares of the two larger numbers        | [JavaScript](JavaScript/easy/e034.js) |
+| 34     | Sum of the squares of the two larger numbers        | [JavaScript](JavaScript/easy/e034.js), [F#](F%23/easy/e034.fsx) |
 | 33     | Question/answer study tool                          | [JavaScript](JavaScript/easy/e033.js) |
 | 31     | Base-26 multiplication function                     | [JavaScript](JavaScript/easy/e031.js) |
 | 30     | Target sum using elements of a list                 | [JavaScript](JavaScript/easy/e030.js) |
