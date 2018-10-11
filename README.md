@@ -44,10 +44,11 @@ Completed intermediate challenges:
 | 249    | Hello World Genetic or Evolutionary Algorithm       | [C](C/intermediate/i249.c)                                          |
 | 245    | Ggggggg gggg Ggggg-ggggg!                           | [Python](Python/intermediate/i245.py)                               |
 | 235    | Scoring a Bowling Game                              | [Python](Python/intermediate/i235.py)                               |
-| 47     | String digits to integers                           | [C](C/intermediate/i047.c)                                          |
-| 46     | Setting random digits to blanks game                | [Python](Python/intermediate/i046.py)                               |
-| 25     | Binary representation of a number                   | [C](C/intermediate/i025.c)                                          |
-| 23     | McNugget numbers                                    | [Python](Python/intermediate/i023.py), [C](C/intermediate/i023.c)   |
+| 53     | 10 Million Random Numbers                           | [F#](F%23/intermediate/i053.fsx)                                    |
+| 47     | String Digits to Integers                           | [C](C/intermediate/i047.c)                                          |
+| 46     | Setting Random Digits to Blanks Game                | [Python](Python/intermediate/i046.py)                               |
+| 25     | Binary Representation of a Number                   | [C](C/intermediate/i025.c)                                          |
+| 23     | McNugget Numbers                                    | [Python](Python/intermediate/i023.py), [C](C/intermediate/i023.c)   |
 
 Completed easy challenges:
 
