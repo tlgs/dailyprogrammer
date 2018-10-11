@@ -168,7 +168,7 @@ Completed easy challenges:
 | 39     | FizzBuzz                                            | [JavaScript](JavaScript/easy/e039.js), [R](R/easy/e039.R), [C](C/easy/e039.c), [Rust](Rust/easy/e039.rs), [Python](Python/easy/e039.py), [Elm](Elm/easy/e039.elm), [F#](F%23/easy/e039.fsx) |
 | 36     | 1000 Lockers problem                                | [JavaScript](JavaScript/easy/e036.js) |
 | 35     | Right triangle counting                             | [JavaScript](JavaScript/easy/e035.js) |
-| 34     | Sum of the squares of the two larger numbers        | [JavaScript](JavaScript/easy/e034.js), [F#](F%23/easy/e034.fsx) |
+| 34     | Sum of the squares of the two larger numbers        | [JavaScript](JavaScript/easy/e034.js), [F#](F%23/easy/e034.fsx), [Befunge](Befunge/easy/e034.befunge) |
 | 33     | Question/answer study tool                          | [JavaScript](JavaScript/easy/e033.js) |
 | 31     | Base-26 multiplication function                     | [JavaScript](JavaScript/easy/e031.js) |
 | 30     | Target sum using elements of a list                 | [JavaScript](JavaScript/easy/e030.js) |
