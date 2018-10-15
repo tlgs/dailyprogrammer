@@ -19,5 +19,5 @@ while true do
 
     rolls
     |> List.map string
-    |>  String.concat " "
+    |> String.concat " "
     |> printfn "%s"

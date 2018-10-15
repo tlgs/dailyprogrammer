@@ -87,7 +87,7 @@ Completed easy challenges:
 | 323    | 3SUM                                                | [Python](Python/easy/e323.py), [C](C/easy/e323.c)   |
 | 322    | All Pairs Test Generator                            | [Python](Python/easy/e322.py)     |
 | 321    | Talking Clock                                       | [Python](Python/easy/e321.py)     |
-| 319    | Condensing Sentences                                | [R](R/easy/e319.R) , [Python](Python/easy/e319.py)  |
+| 319    | Condensing Sentences                                | [R](R/easy/e319.R), [Python](Python/easy/e319.py)  |
 | 317    | Collatz Tag System                                  | [Python](Python/easy/e317.py)     |
 | 316    | Knight's Metric                                     | [Python](Python/easy/e316.py)     |
 | 315    | XOR Multiplication                                  | [C](C/easy/e315.c)                |
@@ -124,11 +124,11 @@ Completed easy challenges:
 | 252    | Sailors and monkeys and coconuts, oh my!            | [JavaScript](JavaScript/easy/e252.js)               |
 | 242    | Funny plants                                        | [C](C/easy/e242.c)                                  |
 | 240    | Typoglycemia                                        | [Python](Python/easy/e240.py)                       |
-| 239    | A Game of Threes                                    | [C](C/easy/e239.c) , [Rust](Rust/easy/e239.rs), [Befunge](Befunge/easy/e239.befunge)      |
+| 239    | A Game of Threes                                    | [C](C/easy/e239.c), [Rust](Rust/easy/e239.rs), [Befunge](Befunge/easy/e239.befunge)      |
 | 238    | Consonants and Vowels                               | [Python](Python/easy/e238.py), [C](C/easy/e238.c)   |
 | 237    | Broken Keyboard                                     | [Python](Python/easy/e237.py)                       |
 | 236    | Random Bag System                                   | [C](C/easy/e236.c)                                  |
-| 235    | Ruth-Aaron Pairs                                    | [C](C/easy/e235.c) , [Python](Python/easy/e235.py)  |
+| 235    | Ruth-Aaron Pairs                                    | [C](C/easy/e235.c), [Python](Python/easy/e235.py)  |
 | 232    | Palindromes                                         | [Python](Python/easy/e232.py)         |
 | 228    | Letters in Alphabetical Order                       | [C](C/easy/e228.c)                    |
 | 223    | Garland words                                       | [Python](Python/easy/e223.py)         |
@@ -149,6 +149,7 @@ Completed easy challenges:
 | 119    | Change Calculator                                   | [C](C/easy/e119.c)                    |
 | 115    | Guess-that-number game!                             | [C](C/easy/e115.c)                    |
 | 101    | Non-repeating years                                 | [C](C/easy/e101.c)                    |
+| 89     | Simple Statistical Functions                        | [F#](F%23/easy/e089.fsx)              |
 | 79     | Counting in steps                                   | [C](C/easy/e079.c)                    |
 | 62     | Ullman's Puzzle                                     | [C](C/easy/e062.c)                    |
 | 61     | Rotating Binaries                                   | [C](C/easy/e061.c)                    |
