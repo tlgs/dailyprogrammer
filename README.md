@@ -149,6 +149,7 @@ Completed easy challenges:
 | 119    | Change Calculator                                   | [C](C/easy/e119.c)                    |
 | 115    | Guess-that-number game!                             | [C](C/easy/e115.c)                    |
 | 101    | Non-repeating years                                 | [C](C/easy/e101.c)                    |
+| 91     | Sleep Sort                                          | [F#](F%23/easy/e091.fsx)              |
 | 89     | Simple Statistical Functions                        | [F#](F%23/easy/e089.fsx)              |
 | 79     | Counting in steps                                   | [C](C/easy/e079.c)                    |
 | 62     | Ullman's Puzzle                                     | [C](C/easy/e062.c)                    |
