@@ -1,24 +1,19 @@
 // 15/10/2018
 
-open System
 open System.IO
 
-let mean (x : float list) : float =
-    (List.sum x) / (float (List.length x))
+let mean x = Seq.sum x / float (Seq.length x)
 
-let variance (x : float list) : float =
-    x
-    |> List.map (fun a -> pown (a - (mean x)) 2)
-    |> mean
+let variance x =
+    let mx = mean x
+    x |> Seq.map (fun a -> pown (a - mx) 2) |> mean
 
-let stdDev =
-    variance >> Math.Sqrt 
+let stdDev x = x |> variance |> sqrt
 
 let values =
     fsi.CommandLineArgs.[1]
     |> File.ReadAllLines
-    |> Array.toList
-    |> List.map float
+    |> Array.map float
 
 printfn "mean: %A" (mean values)
 printfn "variance: %A" (variance values)
