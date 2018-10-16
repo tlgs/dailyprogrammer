@@ -130,6 +130,7 @@ Completed easy challenges:
 | 236    | Random Bag System                                   | [C](C/easy/e236.c)                                  |
 | 235    | Ruth-Aaron Pairs                                    | [C](C/easy/e235.c), [Python](Python/easy/e235.py)  |
 | 232    | Palindromes                                         | [Python](Python/easy/e232.py)         |
+| 229    | The Dottie Number                                   | [F#](F%23/easy/e229.fsx)              |
 | 228    | Letters in Alphabetical Order                       | [C](C/easy/e228.c)                    |
 | 223    | Garland words                                       | [Python](Python/easy/e223.py)         |
 | 208    | Culling Numbers                                     | [JavaScript](JavaScript/easy/e208.js) |
