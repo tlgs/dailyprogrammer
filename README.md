@@ -133,7 +133,7 @@ Completed easy challenges:
 | 229    | The Dottie Number                                   | [F#](F%23/easy/e229.fsx)              |
 | 228    | Letters in Alphabetical Order                       | [C](C/easy/e228.c)                    |
 | 223    | Garland words                                       | [Python](Python/easy/e223.py)         |
-| 218    | Making Numbers Palindromic                          | [F#](F%23/easy/e229.fsx)              |
+| 218    | Making Numbers Palindromic                          | [F#](F%23/easy/e218.fsx), [Python](Python/easy/e218.py) |
 | 208    | Culling Numbers                                     | [JavaScript](JavaScript/easy/e208.js) |
 | 207    | Bioinformatics 1: DNA Replication                   | [C](C/easy/e207.c)                    |
 | 203    | The Start of Something Big                          | [Processing](Processing/e203/e203.pde)|
