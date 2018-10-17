@@ -111,7 +111,7 @@ Completed easy challenges:
 | 290    | Kaprekar Numbers                                    | [JavaScript](JavaScript/easy/e290.js) |
 | 287    | Kaprekar's Routine                                  | [C](C/easy/e287.c)                    |
 | 286    | Reverse Factorial                                   | [Python](Python/easy/e286.py)         |
-| 283    | Anagram Detector                                    | [F#](F%23/easy/e283.fsx)                |
+| 283    | Anagram Detector                                    | [F#](F%23/easy/e283.fsx)              |
 | 282    | Unusual Bases                                       | [C](C/easy/e282.c)                    |
 | 275    | Splurthian Chemistry 101                            | [C](C/easy/e275.c)                    |
 | 272    | What's in the bag?                                  | [Python](Python/easy/e272.py)         |
@@ -128,11 +128,12 @@ Completed easy challenges:
 | 238    | Consonants and Vowels                               | [Python](Python/easy/e238.py), [C](C/easy/e238.c)   |
 | 237    | Broken Keyboard                                     | [Python](Python/easy/e237.py)                       |
 | 236    | Random Bag System                                   | [C](C/easy/e236.c)                                  |
-| 235    | Ruth-Aaron Pairs                                    | [C](C/easy/e235.c), [Python](Python/easy/e235.py)  |
+| 235    | Ruth-Aaron Pairs                                    | [C](C/easy/e235.c), [Python](Python/easy/e235.py)   |
 | 232    | Palindromes                                         | [Python](Python/easy/e232.py)         |
 | 229    | The Dottie Number                                   | [F#](F%23/easy/e229.fsx)              |
 | 228    | Letters in Alphabetical Order                       | [C](C/easy/e228.c)                    |
 | 223    | Garland words                                       | [Python](Python/easy/e223.py)         |
+| 218    | Making Numbers Palindromic                          | [F#](F%23/easy/e229.fsx)              |
 | 208    | Culling Numbers                                     | [JavaScript](JavaScript/easy/e208.js) |
 | 207    | Bioinformatics 1: DNA Replication                   | [C](C/easy/e207.c)                    |
 | 203    | The Start of Something Big                          | [Processing](Processing/e203/e203.pde)|
