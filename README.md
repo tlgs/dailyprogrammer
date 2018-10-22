@@ -112,7 +112,7 @@ Completed easy challenges:
 | 287    | Kaprekar's Routine                                  | [C](C/easy/e287.c)                    |
 | 286    | Reverse Factorial                                   | [Python](Python/easy/e286.py)         |
 | 283    | Anagram Detector                                    | [F#](F%23/easy/e283.fsx)              |
-| 282    | Unusual Bases                                       | [C](C/easy/e282.c)                    |
+| 282    | Unusual Bases                                       | [C](C/easy/e282.c), [F#](F%23/easy/e282.fsx)   |
 | 275    | Splurthian Chemistry 101                            | [C](C/easy/e275.c)                    |
 | 272    | What's in the bag?                                  | [Python](Python/easy/e272.py)         |
 | 271    | Critical Hit                                        | [C](C/easy/e271.c)                    |
