@@ -47,8 +47,6 @@ let main =
                    |> Seq.rev)
         | _    -> failwith "invalid action"
 
-    //printfn "%A" fibSeq
-
     match mode with
     | "10" -> (encode query fibSeq |> printfn "%s")
     | "F"  -> (decode query fibSeq |> printfn "%s")
