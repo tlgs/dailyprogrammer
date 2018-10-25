@@ -41,6 +41,7 @@ Completed intermediate challenges:
 | 306    | Gray code                                           | [Python](Python/intermediate/i306.py), [C](C/intermediate/i306.c)   |
 | 301    | Looking for patterns                                | [Python](Python/intermediate/i301.py)                               |
 | 269    | Mirror Encryption                                   | [Python](Python/intermediate/i269.py)                               |
+| 256    | Guess my hat color                                  | [F#](F%23/intermediate/i256.fsx)                                    |
 | 249    | Hello World Genetic or Evolutionary Algorithm       | [C](C/intermediate/i249.c)                                          |
 | 245    | Ggggggg gggg Ggggg-ggggg!                           | [Python](Python/intermediate/i245.py)                               |
 | 235    | Scoring a Bowling Game                              | [Python](Python/intermediate/i235.py)                               |
