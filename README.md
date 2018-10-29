@@ -148,7 +148,7 @@ Completed easy challenges:
 | 147    | Sport Points                                        | [Python](Python/easy/e147.py)         |
 | 143    | Braille                                             | [C](C/easy/e143.c)                    |
 | 139    | Pangrams                                            | [R](R/easy/e139.R)                    |
-| 122    | Sum Them Digits                                     | [JavaScript](JavaScript/easy/e122.js) |
+| 123    | Sum Them Digits                                     | [JavaScript](JavaScript/easy/e123.js) |
 | 119    | Change Calculator                                   | [C](C/easy/e119.c)                    |
 | 115    | Guess-that-number game!                             | [C](C/easy/e115.c)                    |
 | 101    | Non-repeating years                                 | [C](C/easy/e101.c)                    |
