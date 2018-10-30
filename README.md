@@ -118,6 +118,7 @@ Completed easy challenges:
 | 272    | What's in the bag?                                  | [Python](Python/easy/e272.py)         |
 | 271    | Critical Hit                                        | [C](C/easy/e271.c)                    |
 | 270    | Transpose the input text                            | [Python](Python/easy/e270.py)         |
+| 267    | All the places your dog didn't win                  | [F#](F%23/easy/e267.fsx)              |
 | 263    | Calculating Shannon Entropy of a String             | [C](C/easy/e263.c)                    |
 | 259    | Clarence the Slow Typist                            | [Python](Python/easy/e259.py)         |
 | 255    | Playing with light switches                         | [JavaScript](JavaScript/easy/e255.js), [R](R/easy/e255.R)  |
