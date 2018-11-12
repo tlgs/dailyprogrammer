@@ -64,7 +64,10 @@ Completed easy challenges:
 | 361    | Tally Program                                       | [Python](Python/easy/e361.py)     |
 | 360    | -                                                   | -                                 |
 | 359    | Regular Paperfold Sequence Generator                | [Python](Python/easy/e359.py)     |
+| 357    | -                                                   | -                                 |
+| 356    | -                                                   | -                                 |
 | 355    | Alphabet Cipher                                     | [Python](Python/easy/e355.py)     |
+| 354    | Integer Complexity 1                                | [F#](F%23/easy/e354.fsx)          |
 | 353    | Closest String                                      | [C](C/easy/e353.c)                |
 | 352    | Making Imgur-style Links                            | [C](C/easy/e352.c)                |
 | 350    | Bookshelf problem                                   | [Python](Python/easy/e350.py)     |
