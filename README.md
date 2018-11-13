@@ -30,6 +30,7 @@ Completed intermediate challenges:
 |--------|-----------------------------------------------------|---------------------------------------------------------------------|
 | 364    | The Ducci Sequence                                  | [F#](F%23/intermediate/i364.fsx)                                    |
 | 355    | Possible Number of Pies                             | [Python](Python/intermediate/i355.py)                               |
+| 354    | Integer Complexity 2                                | [F#](F%23/intermediate/i354.fsx)                                    |
 | 350    | Balancing My Spending                               | [C](C/intermediate/i350.c)                                          |
 | 334    | Carpet Fractals                                     | [C](C/intermediate/i334.c)                                          |
 | 329    | Solve the Water Bucket Riddle                       | [C](C/intermediate/i329.c)                                          |
