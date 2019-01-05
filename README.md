@@ -12,22 +12,7 @@ It is hard to tell what most of these do just by their title.
 [Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
 is an almost complete list of the available challenges.
 
-Running `./other/COUNTFILES.sh` will produce a table
-with the amount of problems solved in each language, like so:
-
-```text
-2019/01/05
-
-     60 py
-     51 js
-     50 c
-     21 fsx
-      9 R
-      7 befunge
-      4 rs
-      2 pde
-      1 elm
-```
+Run `./other/COUNTFILES.sh` for the amount of problems solved in each language.
 
 ---
 
