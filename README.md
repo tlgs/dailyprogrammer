@@ -2,15 +2,36 @@
 
 ![hey](https://d.thumbs.redditmedia.com/mASxBAsOsW90oWe-.png)
 
-This repository contains scripts used to solve the programming challenges available over at [Reddit's /r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer).
+This repository contains scripts used to solve the programming challenges
+available over at [Reddit's /r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer).
 
-Have in mind that they were created with their intended usage in mind and most do little or no input validation. It is hard to tell what most of these do just by their title.
+Have in mind that they were created with their intended usage in mind and most
+do little or no input validation.
+It is hard to tell what most of these do just by their title.
 
-[Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) is an almost complete list of the available challenges.
+[Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
+is an almost complete list of the available challenges.
+
+Running `./other/COUNTFILES.sh` will produce a table
+with the amount of problems solved in each language, like so:
+
+```text
+2019/01/05
+
+     60 py
+     51 js
+     50 c
+     21 fsx
+      9 R
+      7 befunge
+      4 rs
+      2 pde
+      1 elm
+```
 
 ---
 
-Completed hard challenges:
+Completed hard challenges:  
 
 | Number | Title                                               | Language                           |
 |--------|-----------------------------------------------------|------------------------------------|
@@ -56,7 +77,7 @@ Completed easy challenges:
 
 | Number | Title                                                                                                          | Language                          |
 |--------|----------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| 369    | [Hex colors](https://old.reddit.com/r/dailyprogrammer/comments/a0lhxx/20181126_challenge_369_easy_hex_colors/) | [F#](Python/easy/e369.py)         |
+| 369    | [Hex colors](https://old.reddit.com/r/dailyprogrammer/comments/a0lhxx/20181126_challenge_369_easy_hex_colors/) | [Python](Python/easy/e369.py)     |
 | 368    | -                                                                                                              | -                                 |
 | 367    | Subfactorials - Another Twist on Factorials         | [F#](F%23/easy/e367.fsx)          |
 | 366    | Word funnel 1                                       | [F#](F%23/easy/e366.fsx)          |
