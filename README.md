@@ -54,8 +54,10 @@ Completed intermediate challenges:
 
 Completed easy challenges:
 
-| Number | Title                                               | Language                          |
-|--------|-----------------------------------------------------|-----------------------------------|
+| Number | Title                                                                                                          | Language                          |
+|--------|----------------------------------------------------------------------------------------------------------------|-----------------------------------|
+| 369    | [Hex colors](https://old.reddit.com/r/dailyprogrammer/comments/a0lhxx/20181126_challenge_369_easy_hex_colors/) | [F#](Python/easy/e369.py)         |
+| 368    | -                                                                                                              | -                                 |
 | 367    | Subfactorials - Another Twist on Factorials         | [F#](F%23/easy/e367.fsx)          |
 | 366    | Word funnel 1                                       | [F#](F%23/easy/e366.fsx)          |
 | 365    | Up-arrow Notation                                   | [F#](F%23/easy/e365.fsx)          |
