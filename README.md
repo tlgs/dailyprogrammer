@@ -60,12 +60,12 @@ Completed intermediate challenges:
 
 Completed easy challenges:
 
-| Number | Title                                                                                                                          | Language                          |
-|--------|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| 371    | [N queens validator](https://old.reddit.com/r/dailyprogrammer/comments/ab9mn7/20181231_challenge_371_easy_n_queens_validator/) | [Python](Python/easy/e371.py)     |
-| 370    | [UPC check digits](https://old.reddit.com/r/dailyprogrammer/comments/a72sdj/20181217_challenge_370_easy_upc_check_digits/)     | [Python](Python/easy/e370.py)     |
-| 369    | [Hex colors](https://old.reddit.com/r/dailyprogrammer/comments/a0lhxx/20181126_challenge_369_easy_hex_colors/)                 | [Python](Python/easy/e369.py)     |
-| 368    | -                                                                                                                              | -                                 |
+| Number | Title                                                                                                                          | Language                                                |
+|--------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| 371    | [N queens validator](https://old.reddit.com/r/dailyprogrammer/comments/ab9mn7/20181231_challenge_371_easy_n_queens_validator/) | [Python](Python/easy/e371.py)                           |
+| 370    | [UPC check digits](https://old.reddit.com/r/dailyprogrammer/comments/a72sdj/20181217_challenge_370_easy_upc_check_digits/)     | [Python](Python/easy/e370.py), [F#](F%23/easy/e370.fsx) |
+| 369    | [Hex colors](https://old.reddit.com/r/dailyprogrammer/comments/a0lhxx/20181126_challenge_369_easy_hex_colors/)                 | [Python](Python/easy/e369.py)                           |
+| 368    | -                                                                                                                              | -                                                       |
 | 367    | Subfactorials - Another Twist on Factorials         | [F#](F%23/easy/e367.fsx)          |
 | 366    | Word funnel 1                                       | [F#](F%23/easy/e366.fsx)          |
 | 365    | Up-arrow Notation                                   | [F#](F%23/easy/e365.fsx)          |
