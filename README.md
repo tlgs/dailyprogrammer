@@ -62,6 +62,7 @@ Completed easy challenges:
 
 | Number | Title                                                                                                                          | Language                                                |
 |--------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| 372    | [Perfectly balanced](https://old.reddit.com/r/dailyprogrammer/comments/afxxca/20190114_challenge_372_easy_perfectly_balanced/) | [Python](Python/easy/e372.py)                           |
 | 371    | [N queens validator](https://old.reddit.com/r/dailyprogrammer/comments/ab9mn7/20181231_challenge_371_easy_n_queens_validator/) | [Python](Python/easy/e371.py)                           |
 | 370    | [UPC check digits](https://old.reddit.com/r/dailyprogrammer/comments/a72sdj/20181217_challenge_370_easy_upc_check_digits/)     | [Python](Python/easy/e370.py), [F#](F%23/easy/e370.fsx) |
 | 369    | [Hex colors](https://old.reddit.com/r/dailyprogrammer/comments/a0lhxx/20181126_challenge_369_easy_hex_colors/)                 | [Python](Python/easy/e369.py)                           |
