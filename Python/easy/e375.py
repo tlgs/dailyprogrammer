@@ -8,4 +8,4 @@ def add_one_to_each_digit(n):
         total += 10**i * (digit + 1)
         i += (digit == 9) + 1
 
-    return total
+    return total or 1
