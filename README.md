@@ -12,7 +12,7 @@ It is hard to tell what most of these do just by their title.
 [Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
 is an almost complete list of the available challenges.
 
-Run `./other/COUNTFILES.sh` for the amount of problems solved in each language.
+Run `./other/COUNTFILES` for the amount of problems solved in each language.
 
 ---
 
