@@ -32,32 +32,33 @@ Completed hard challenges:
 
 Completed intermediate challenges:
 
-| Number | Title                                                                                                                        | Language                                                            |
-|--------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| 375    | [A Card Flipping Game](https://old.reddit.com/r/dailyprogrammer/comments/aq6gfy/20190213_challenge_375_intermediate_a_card/) | [Python](Python/intermediate/i375.py)                               |
-| 364    | The Ducci Sequence                                                                                                           | [F#](F%23/intermediate/i364.fsx)                                    |
-| 355    | Possible Number of Pies                                                                                                      | [Python](Python/intermediate/i355.py)                               |
-| 354    | Integer Complexity 2                                                                                                         | [F#](F%23/intermediate/i354.fsx)                                    |
-| 350    | Balancing My Spending                                                                                                        | [C](C/intermediate/i350.c)                                          |
-| 334    | Carpet Fractals                                                                                                              | [C](C/intermediate/i334.c)                                          |
-| 329    | Solve the Water Bucket Riddle                                                                                                | [C](C/intermediate/i329.c)                                          |
-| 328    | Pyramid sliding                                                                                                              | [C](C/intermediate/i328.c)                                          |
-| 319    | Worm Wars 1 - Basic Epidemiology                                                                                             | [Processing](Processing/intermediate/i319/i319.pde)                 |
-| 312    | Next largest number                                                                                                          | [R](R/intermediate/i31.R)                                           |
-| 310    | Simplifying square roots                                                                                                     | [Python](Python/intermediate/i310.py)                               |
-| 307    | Scrabble problem                                                                                                             | [Python](Python/intermediate/i307.py)                               |
-| 306    | Gray code                                                                                                                    | [Python](Python/intermediate/i306.py), [C](C/intermediate/i306.c)   |
-| 301    | Looking for patterns                                                                                                         | [Python](Python/intermediate/i301.py)                               |
-| 269    | Mirror Encryption                                                                                                            | [Python](Python/intermediate/i269.py)                               |
-| 256    | Guess my hat color                                                                                                           | [F#](F%23/intermediate/i256.fsx)                                    |
-| 249    | Hello World Genetic or Evolutionary Algorithm                                                                                | [C](C/intermediate/i249.c)                                          |
-| 245    | Ggggggg gggg Ggggg-ggggg!                                                                                                    | [Python](Python/intermediate/i245.py)                               |
-| 235    | Scoring a Bowling Game                                                                                                       | [Python](Python/intermediate/i235.py)                               |
-| 53     | 10 Million Random Numbers                                                                                                    | [F#](F%23/intermediate/i053.fsx)                                    |
-| 47     | String Digits to Integers                                                                                                    | [C](C/intermediate/i047.c)                                          |
-| 46     | Setting Random Digits to Blanks Game                                                                                         | [Python](Python/intermediate/i046.py)                               |
-| 25     | Binary Representation of a Number                                                                                            | [C](C/intermediate/i025.c)                                          |
-| 23     | McNugget Numbers                                                                                                             | [Python](Python/intermediate/i023.py), [C](C/intermediate/i023.c)   |
+| Number | Title                                                                                                                                    | Language                                                            |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| 375    | [The Revised Julian Calendar](https://old.reddit.com/r/dailyprogrammer/comments/b0nuoh/20190313_challenge_376_intermediate_the_revised/) | [Python](Python/intermediate/i376.py)                               |
+| 375    | [A Card Flipping Game](https://old.reddit.com/r/dailyprogrammer/comments/aq6gfy/20190213_challenge_375_intermediate_a_card/)             | [Python](Python/intermediate/i375.py)                               |
+| 364    | The Ducci Sequence                                                                                                                       | [F#](F%23/intermediate/i364.fsx)                                    |
+| 355    | Possible Number of Pies                                                                                                                  | [Python](Python/intermediate/i355.py)                               |
+| 354    | Integer Complexity 2                                                                                                                     | [F#](F%23/intermediate/i354.fsx)                                    |
+| 350    | Balancing My Spending                                                                                                                    | [C](C/intermediate/i350.c)                                          |
+| 334    | Carpet Fractals                                                                                                                          | [C](C/intermediate/i334.c)                                          |
+| 329    | Solve the Water Bucket Riddle                                                                                                            | [C](C/intermediate/i329.c)                                          |
+| 328    | Pyramid sliding                                                                                                                          | [C](C/intermediate/i328.c)                                          |
+| 319    | Worm Wars 1 - Basic Epidemiology                                                                                                         | [Processing](Processing/intermediate/i319/i319.pde)                 |
+| 312    | Next largest number                                                                                                                      | [R](R/intermediate/i31.R)                                           |
+| 310    | Simplifying square roots                                                                                                                 | [Python](Python/intermediate/i310.py)                               |
+| 307    | Scrabble problem                                                                                                                         | [Python](Python/intermediate/i307.py)                               |
+| 306    | Gray code                                                                                                                                | [Python](Python/intermediate/i306.py), [C](C/intermediate/i306.c)   |
+| 301    | Looking for patterns                                                                                                                     | [Python](Python/intermediate/i301.py)                               |
+| 269    | Mirror Encryption                                                                                                                        | [Python](Python/intermediate/i269.py)                               |
+| 256    | Guess my hat color                                                                                                                       | [F#](F%23/intermediate/i256.fsx)                                    |
+| 249    | Hello World Genetic or Evolutionary Algorithm                                                                                            | [C](C/intermediate/i249.c)                                          |
+| 245    | Ggggggg gggg Ggggg-ggggg!                                                                                                                | [Python](Python/intermediate/i245.py)                               |
+| 235    | Scoring a Bowling Game                                                                                                                   | [Python](Python/intermediate/i235.py)                               |
+| 53     | 10 Million Random Numbers                                                                                                                | [F#](F%23/intermediate/i053.fsx)                                    |
+| 47     | String Digits to Integers                                                                                                                | [C](C/intermediate/i047.c)                                          |
+| 46     | Setting Random Digits to Blanks Game                                                                                                     | [Python](Python/intermediate/i046.py)                               |
+| 25     | Binary Representation of a Number                                                                                                        | [C](C/intermediate/i025.c)                                          |
+| 23     | McNugget Numbers                                                                                                                         | [Python](Python/intermediate/i023.py), [C](C/intermediate/i023.c)   |
 
 Completed easy challenges:
 
