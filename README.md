@@ -18,17 +18,17 @@ Run `./other/COUNTFILES` for the amount of problems solved in each language.
 
 Completed hard challenges:  
 
-| Number | Title                                               | Language                           |
-|--------|-----------------------------------------------------|------------------------------------|
-| 353    | Create a Simple Stochastic Computing Machine        | [C](C/hard/h353.c)                 |
-| 326    | Multifaceted alphabet blocks                        | [C](C/hard/h326.c)                 |
-| 320    | Path to Philosophy                                  | [Python](Python/hard/h320.py)      |
-| 317    | Poker Odds                                          | [Python](Python/hard/h317.py)      |
-| 313    | Embedded word list                                  | [Python](Python/hard/h313.py)      |
-| 312    | Text Summarizer                                     | [Python](Python/hard/h312.py)      |
-| 309    | Patterns overlap                                    | [Python](Python/hard/h309.py)      |
-| 307    | -                                                   | -                                  |
-| 8      | Pascal Triangle Coordinates                         | [Python](Python/hard/h008.py)      |
+| Number | Title                                                                                                                                                 | Language                           |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| 353    | [Create a Simple Stochastic Computing Machine](https://old.reddit.com/r/dailyprogrammer/comments/83754b/20180309_challenge_353_hard_create_a_simple/) | [C](C/hard/h353.c)                 |
+| 326    | [Multifaceted alphabet blocks](https://www.reddit.com/r/dailyprogrammer/comments/6t0zua/20170811_challenge_326_hard_multifaceted_alphabet/)           | [C](C/hard/h326.c)                 |
+| 320    | [Path to Philosophy](https://www.reddit.com/r/dailyprogrammer/comments/6j7k3x/20170624_challenge_320_hard_path_to_philosophy/)                        | [Python](Python/hard/h320.py)      |
+| 317    | [Poker Odds](https://www.reddit.com/r/dailyprogrammer/comments/6eublu/20170602_challenge_317_hard_poker_odds/)                                        | [Python](Python/hard/h317.py)      |
+| 313    | [Embedded word list](https://www.reddit.com/r/dailyprogrammer/comments/69fxq8/20170505_challenge_313_hard_embedded_word_list/)                        | [Python](Python/hard/h313.py)      |
+| 312    | [Text Summarizer](https://www.reddit.com/r/dailyprogrammer/comments/683w4s/20170428_challenge_312_hard_text_summarizer/)                              | [Python](Python/hard/h312.py)      |
+| 309    | [Patterns overlap](https://www.reddit.com/r/dailyprogrammer/comments/641zpj/20170407_challenge_309_hard_patterns_overlap/)                            | [Python](Python/hard/h309.py)      |
+| 307    | -                                                                                                                                                     | -                                  |
+| 8      | [Pascal Triangle Coordinates](https://www.reddit.com/r/dailyprogrammer/comments/psf4n/2162012_challenge_8_difficult/)                                 | [Python](Python/hard/h008.py)      |
 
 Completed intermediate challenges:
 
