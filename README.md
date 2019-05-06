@@ -59,6 +59,7 @@ Completed intermediate challenges:
 | 46     | [Setting Random Digits to Blanks Game](https://www.reddit.com/r/dailyprogrammer/comments/szz68/4302012_challenge_46_intermediate/)                         | [Python](Python/intermediate/i046.py)                               |
 | 25     | [Binary Representation of a Number](https://www.reddit.com/r/dailyprogrammer/comments/qxvu2/3152012_challenge_25_intermediate/)                            | [C](C/intermediate/i025.c)                                          |
 | 23     | [McNugget Numbers](https://www.reddit.com/r/dailyprogrammer/comments/qulnf/3132012_challenge_23_intermediate/)                                             | [Python](Python/intermediate/i023.py), [C](C/intermediate/i023.c)   |
+| 3      | [Alphabetical Substitution Cipher](https://www.reddit.com/r/dailyprogrammer/comments/pkwb1/2112012_challenge_3_intermediate/)                              | [Go](Go/intermediate/i003.go)                                       |
 
 Completed easy challenges:
 
