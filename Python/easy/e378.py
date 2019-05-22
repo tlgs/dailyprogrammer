@@ -3,7 +3,7 @@
 
 def hh(seq):
     while True:
-        seq = [x for x in seq if x != 0]
+        seq = [x for x in seq if x]
         if not seq:
             return True
 
@@ -12,7 +12,8 @@ def hh(seq):
         if N > len(seq):
             return False
 
-        seq = [x - 1 for x in seq[:N]] + seq[N:]
+        for i in range(N):
+            seq[i] -= 1
 
 assert hh([5, 3, 0, 2, 6, 2, 0, 7, 2, 5]) is False
 assert hh([4, 2, 0, 1, 5, 0]) is False
