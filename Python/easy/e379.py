@@ -2,20 +2,16 @@
 
 
 def tax(x):
-    cap = [10e3, 30e3, 100e3]
-    steps = [a - b for a, b in zip(cap, [0] + cap[:-1])]
-    rate = [0, 0.1, 0.25, 0.4]
-    t = 0
+    brackets = [(0, 10e3), (0.1, 30e3), (0.25, 100e3), (0.4, float('inf'))]
+    total = prev = 0
+    for rate, cap in brackets:
+        step = cap - prev
+        prev = cap
+        total += int(min(x, step) * rate)
+        x = max(0, x - step)
 
-    for s, r in zip(steps, rate[:-1]):
-        x -= s
-        if x < 0:
-            t += (s + x) * r
-            return int(t)
-        else:
-            t += s * r
+    return total
 
-    return int(t + x * rate[-1])
 
 assert tax(0) == 0
 assert tax(10000) == 0
