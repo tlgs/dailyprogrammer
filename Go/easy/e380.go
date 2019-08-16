@@ -44,10 +44,11 @@ func bonus1(words []string) (string, error) {
 }
 
 func bonus2(words []string) (string, error) {
+	dashes := strings.Repeat("-", 15)
 	for _, word := range words {
 		if len(word)*3 < 15 {
 			continue
-		} else if strings.Count(smorse(word), "-") == 15 {
+		} else if strings.Contains(smorse(word), dashes) {
 			return word, nil
 		}
 	}
