@@ -12,8 +12,6 @@ It is hard to tell what most of these do just by their title.
 [Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
 is an almost complete list of the available challenges.
 
-Run `./other/COUNTFILES.bash` for the amount of problems solved in each language.
-
 ---
 
 Completed hard challenges:  
@@ -73,7 +71,7 @@ Completed easy challenges:
 | 380    | [Smooshed Morse Code 1](https://old.reddit.com/r/dailyprogrammer/comments/cmd1hb/20190805_challenge_380_easy_smooshed_morse_code_1/)                                 | [C](C/easy/e380.c), [Go](Go/easy/e380.go)                                                                                                                                                   |
 | 379    | [Progressive taxation](https://old.reddit.com/r/dailyprogrammer/comments/cdieag/20190715_challenge_379_easy_progressive_taxation/?st=jy8nmale&sh=001c773e)           | [Python](Python/easy/e379.py)                                                                                                                                                               |
 | 378    | [The Havel-Hakimi algorithm for graph realization](https://old.reddit.com/r/dailyprogrammer/comments/bqy1cf/20190520_challenge_378_easy_the_havelhakimi/)            | [Python](Python/easy/e378.py)                                                                                                                                                               |
-| 377    | [Axis-aligned crate packing](https://www.reddit.com/r/dailyprogrammer/comments/bazy5j/20190408_challenge_377_easy_axisaligned_crate/)                                | [Python](Python/easy/e377.py), [Befunge](Befunge/easy/e377.befunge), [Bash](Bash/easy/e377.bash), [Go](Go/easy/e377.go)                                                                     |
+| 377    | [Axis-aligned crate packing](https://www.reddit.com/r/dailyprogrammer/comments/bazy5j/20190408_challenge_377_easy_axisaligned_crate/)                                | [Python](Python/easy/e377.py), [Befunge](Befunge/easy/e377.befunge), [Bash](Bash/easy/e377), [Go](Go/easy/e377.go)                                                                          |
 | 376    | -                                                                                                                                                                    | -                                                                                                                                                                                           |
 | 375    | [Print a new number by adding one to each of its digit](https://old.reddit.com/r/dailyprogrammer/comments/aphavc/20190211_challenge_375_easy_print_a_new_number_by/) | [Python](Python/easy/e375.py)                                                                                                                                                               |
 | 374    | [Additive Persistence](https://old.reddit.com/r/dailyprogrammer/comments/akv6z4/20190128_challenge_374_easy_additive_persistence/)                                   | [Python](Python/easy/e374.py)                                                                                                                                                               |
