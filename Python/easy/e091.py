@@ -1,24 +1,52 @@
 # 26/11/2019
+import argparse
 import asyncio
+import multiprocessing
 import sys
 import threading
+import time
 
 
-async def sleep(x):
+def sleep_print(x):
+    time.sleep(x)
+    print(x)
+    return None
+
+
+async def asleep_print(x):
     await asyncio.sleep(x)
     print(x)
     return None
 
 
 async def sleep_sort(numbers):
-    await asyncio.gather(*(sleep(x) for x in numbers))
+    await asyncio.gather(*(asleep_print(x) for x in numbers))
     return None
 
 
-if sys.argv[1] in ["-a", "--async"]:  # async/await coroutines
-    n = [int(x) for x in sys.argv[2:]]
-    asyncio.run(sleep_sort(n))
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "file", nargs="?", type=argparse.FileType("r"), default=sys.stdin
+    )
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument("-c", "--coroutines", action="store_true")
+    group.add_argument("-t", "--threads", action="store_true")
+    group.add_argument("-p", "--processes", action="store_true")
+    args = parser.parse_args()
 
-else:  # multithreading
-    for x in sys.argv[1:]:
-        threading.Timer(int(x), print, args=[x]).start()
+    numbers = []
+    for line in args.file:
+        x = int(line.strip())
+        numbers.append(x)
+
+    if args.threads:
+        for x in numbers:
+            threading.Timer(x, print, args=[x]).start()
+
+    elif args.processes:
+        for x in numbers:
+            multiprocessing.Process(target=sleep_print, args=[x]).start()
+
+    else:
+        asyncio.run(sleep_sort(numbers))
