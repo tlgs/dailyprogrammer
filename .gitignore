@@ -1,7 +1,18 @@
+# editor specific
 .vscode
+
+# executables
 *.exe
+
+# text files
 *.txt
-*.Rhistory
-JavaScript/test.html
+
+# Elm
 elm-stuff/
 elm-package.json
+
+# Javascript
+JavaScript/test.html
+
+# R
+*.Rhistory
