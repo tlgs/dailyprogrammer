@@ -1,18 +1,11 @@
 # dailyprogrammer
 
-![hey](https://d.thumbs.redditmedia.com/mASxBAsOsW90oWe-.png)
-
 This repository contains scripts used to solve the programming challenges
 available over at [Reddit's /r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer).
 
-Have in mind that they were created with their intended usage in mind and most
-do little or no input validation.
-It is hard to tell what most of these do just by their title.
-
-[Here](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
-is an almost complete list of the available challenges.
-
----
+I use these challenges mostly to learn new languages and/or concepts.
+Be warned that these solutions are a reflection of my level of expertise
+at the time; expect no rocket-grade code here.
 
 ## Easy
 
