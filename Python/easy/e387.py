@@ -3,22 +3,14 @@ import sys
 
 
 def caesar(code, shift):
-    mapping = {c: chr(97 + (ord(c) - 97 + shift) % 26) for c in string.ascii_lowercase}
-    mapping.update(
-        {c: chr(67 + (ord(c) - 67 + shift) % 26) for c in string.ascii_uppercase}
-    )
+    mapping = {
+        c: chr(offset + (ord(c) - offset + shift) % 26)
+        for offset, c in zip(
+            [65] * 26 + [97] * 26, string.ascii_uppercase + string.ascii_lowercase
+        )
+    }
 
     return "".join(mapping.get(c, c) for c in code)
-
-
-assert caesar("a", 1) == "b"
-assert caesar("abcz", 1) == "bcda"
-assert caesar("irk", 13) == "vex"
-assert caesar("fusion", 6) == "layout"
-assert caesar("dailyprogrammer", 6) == "jgorevxumxgsskx"
-assert caesar("jgorevxumxgsskx", 20) == "dailyprogrammer"
-
-assert caesar("Daily Programmer!", 6) == "Jgore Vxumxgsskx!"
 
 
 if __name__ == "__main__":
