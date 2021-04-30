@@ -1,16 +1,15 @@
-import string
 import sys
 
 
 def caesar(code, shift):
     mapping = {
-        c: chr(offset + (ord(c) - offset + shift) % 26)
-        for offset, c in zip(
-            [65] * 26 + [97] * 26, string.ascii_uppercase + string.ascii_lowercase
+        n: start + (n - start + shift) % 26
+        for start, n in zip(
+            [65] * 26 + [97] * 26, list(range(65, 91)) + list(range(97, 123))
         )
     }
 
-    return "".join(mapping.get(c, c) for c in code)
+    return code.translate(mapping)
 
 
 if __name__ == "__main__":
