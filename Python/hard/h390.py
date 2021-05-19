@@ -5,7 +5,7 @@ import math
 
 def f(n):
     total = 0
-    for i in range(0, int(math.log10(n)) + 1):
+    for i in range(0, int(math.log10(n) + 1)):
         e = 10 ** i
 
         digit = (n // e) % 10
