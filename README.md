@@ -229,6 +229,7 @@ at the time; expect no rocket-grade code here.
 
 | Number | Title                                                                                                                                                 | Language                           |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| 390    | [Number of 1's](https://old.reddit.com/r/dailyprogrammer/comments/neg49j/20210517_challenge_390_difficult_number_of_1s/)                              | [Python](Python/hard/h390.py)      |
 | 353    | [Create a Simple Stochastic Computing Machine](https://old.reddit.com/r/dailyprogrammer/comments/83754b/20180309_challenge_353_hard_create_a_simple/) | [C](C/hard/h353.c)                 |
 | 326    | [Multifaceted alphabet blocks](https://old.reddit.com/r/dailyprogrammer/comments/6t0zua/20170811_challenge_326_hard_multifaceted_alphabet/)           | [C](C/hard/h326.c)                 |
 | 320    | [Path to Philosophy](https://old.reddit.com/r/dailyprogrammer/comments/6j7k3x/20170624_challenge_320_hard_path_to_philosophy/)                        | [Python](Python/hard/h320.py)      |
