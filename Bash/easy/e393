@@ -1,16 +1,12 @@
 #!/bin/bash
 
 change() {
-  coins=(500 100 25 10 5 1)
-
   remainder=$1
   total=0
-  i=0
 
-  while [ "$remainder" -gt 0 ]; do
-    total=$((total + remainder / coins[i]))
-    remainder=$((remainder % coins[i]))
-    ((i++))
+  for coin in 500 100 25 10 5 1; do
+    total=$((total + remainder / coin))
+    remainder=$((remainder % coin))
   done
 
   echo $total
