@@ -199,6 +199,7 @@ at the time; expect no rocket-grade code here.
 
 | Number | Title                                                                                                                                                      | Language                                                            |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| 395    | [Phone drop](https://old.reddit.com/r/dailyprogrammer/comments/o9k0p0/20210628_challenge_395_intermediate_phone_drop/)                                     | [Python](Python/intermediate/i395.py)                               |
 | 388    | [Next palindrome](https://old.reddit.com/r/dailyprogrammer/comments/n3var6/20210503_challenge_388_intermediate_next/)                                      | [Python](Python/intermediate/i388.py)                               |
 | 380    | [Smooshed Morse Code 2](https://old.reddit.com/r/dailyprogrammer/comments/cn6gz5/20190807_challenge_380_intermediate_smooshed/)                            | [Go](Go/intermediate/i380.go)                                       |
 | 379    | -                                                                                                                                                          | -                                                                   |
