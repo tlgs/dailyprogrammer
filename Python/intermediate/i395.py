@@ -8,9 +8,9 @@ def phonedrop(n, h):
 
     worst = 0
     for i in range(1, h):
-        x = phonedrop(n - 1, i) + 1
-        y = phonedrop(n, h - i) + 1
-        worst = max(worst, min(x, y))
+        x = phonedrop(n - 1, i)
+        y = phonedrop(n, h - i)
+        worst = max(worst, min(x, y) + 1)
 
     return worst
 
