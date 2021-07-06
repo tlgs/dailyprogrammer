@@ -2,7 +2,7 @@
 
 
 def numcompare(x, y):
-    m = dict(zip("MDCLXVI", "🟥🟧🟨🟩🟦🟪🟫"))
+    m = dict(zip("MDCLXVI", "🟫🟪🟩🟨🟧🟦🟥"))
     return x.translate(m) < y.translate(m)
 
 
