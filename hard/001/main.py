@@ -1,6 +1,3 @@
-"""Hard #1"""
-
-
 def guess(low, high):
     v = (high + low) // 2
     print(f"Is your number {v}? (y)es, (l)ower, or (h)igher")
